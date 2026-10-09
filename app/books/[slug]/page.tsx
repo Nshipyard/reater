@@ -10,6 +10,7 @@ import {
 } from "@/lib/data";
 import { Book3D } from "@/components/Book3D";
 import { Cover } from "@/components/Cover";
+import { AvatarStack } from "@/components/AvatarStack";
 import { ScrollDial } from "@/components/ScrollDial";
 import { SourceBadge } from "@/components/SourceBadge";
 import { BuyButtons, ShareButton } from "@/components/BuyButtons";
@@ -98,7 +99,10 @@ export default async function BookPage({
                 </Link>
               ))}
             </div>
-            <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/70">
+            <div className="mt-6">
+              <AvatarStack figures={figures} />
+            </div>
+            <p className="mt-4 max-w-xl text-lg leading-relaxed text-ink/70">
               Recommended by <strong>{figures.length}</strong>{" "}
               {figures.length === 1 ? "influential figure" : "influential figures"}
               {figures.length > 0 && (
