@@ -20,7 +20,7 @@ export default function FiguresIndex() {
         .filter(Boolean)
         .map((b) => ({ slug: b.slug, title: b.title, author: b.author, isbn13: b.isbn13, coverId: b.coverId })),
     };
-  });
+  }).filter((f) => f.bookCount > 0);
 
   return (
     <div className="mx-auto max-w-6xl px-5 py-16">

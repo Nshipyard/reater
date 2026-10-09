@@ -36,7 +36,7 @@ function withCounts() {
 }
 
 export default function Home() {
-  const figures = withCounts();
+  const figures = withCounts().filter((f) => f.bookCount > 0);
   const top = topBooks(8);
   const sources = sourceTypeCounts().map((s) => ({
     label: SOURCE_LABELS[s.type] || s.type,
@@ -77,11 +77,11 @@ export default function Home() {
             podcast, interview, or list where it surfaced.
           </p>
           <div className="mt-8">
-            <Search figures={FIGURES} books={BOOKS} />
+            <Search figures={figures} books={BOOKS} />
           </div>
           <dl className="mt-10 flex flex-wrap gap-x-10 gap-y-4">
             {[
-              [FIGURES.length, "influential figures"],
+              [figures.length, "influential figures"],
               [BOOKS.length, "books tracked"],
               [RECS.length, "recommendations"],
               [uniqueSources().length, "sources cited"],
@@ -104,7 +104,7 @@ export default function Home() {
             Browse all →
           </Link>
         </div>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-4 md:grid-cols-2">
           {figures.map((f) => (
             <FigureCard key={f.slug} figure={f} />
           ))}

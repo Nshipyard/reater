@@ -24,6 +24,8 @@ interface Props {
   className?: string;
   eager?: boolean;
   sizes?: string;
+  /** "full" renders the typographic cover; "plain" renders a solid block (for tiny sizes where text would break). */
+  fallback?: "full" | "plain";
 }
 
 /** Real cover from Open Library, with a typographic fallback when missing. */
@@ -32,6 +34,7 @@ export function Cover({
   className = "",
   eager = false,
   sizes = "(max-width: 640px) 40vw, 240px",
+  fallback = "full",
 }: Props) {
   const [failed, setFailed] = useState(false);
   const { coverId, isbn13, title, author, slug } = book;
@@ -44,6 +47,16 @@ export function Cover({
   const src = urlFor("M");
 
   if (!src || failed) {
+    if (fallback === "plain") {
+      return (
+        <div
+          role="img"
+          aria-label={`Cover of ${title} by ${author}`}
+          className={`aspect-[2/3] w-full ${className}`}
+          style={{ background: hashColor(slug) }}
+        />
+      );
+    }
     return (
       <div
         role="img"

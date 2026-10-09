@@ -1,9 +1,7 @@
 "use client";
 import { useState } from "react";
-import Link from "next/link";
 import type { Figure } from "@/lib/types";
-import { Cover } from "./Cover";
-import { initials } from "@/lib/site";
+import { FigureCard } from "./FigureCard";
 
 export interface FigureWithCount extends Figure {
   bookCount: number;
@@ -31,35 +29,9 @@ export function FiguresDirectory({ figures }: { figures: FigureWithCount[] }) {
           </button>
         ))}
       </div>
-      <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-8 grid gap-4 md:grid-cols-2">
         {list.map((f) => (
-          <Link
-            key={f.slug}
-            href={`/figures/${f.slug}/`}
-            className="group overflow-hidden rounded-3xl border border-ink/10 bg-white transition hover:shadow-[0_12px_40px_rgba(23,19,11,0.10)]"
-          >
-            <div className="flex items-center gap-4 p-5" style={{ background: f.color.bg, color: f.color.fg }}>
-              <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border-2 font-display text-lg font-bold" style={{ borderColor: f.color.fg }}>
-                {initials(f.name)}
-              </span>
-              <div className="min-w-0">
-                <p className="font-display text-xl font-bold leading-tight">{f.name}</p>
-                <p className="truncate text-sm opacity-70">{f.role}</p>
-              </div>
-            </div>
-            <div className="flex items-center justify-between p-5">
-              <div className="flex -space-x-3">
-                {f.topBooks.slice(0, 3).map((b) => (
-                  <div key={b.slug} className="w-12 overflow-hidden rounded shadow-md ring-2 ring-white">
-                    <Cover book={b} sizes="80px" />
-                  </div>
-                ))}
-              </div>
-              <span className="text-sm font-semibold text-ink/60 transition group-hover:text-ink">
-                {f.bookCount} {f.bookCount === 1 ? "book" : "books"} →
-              </span>
-            </div>
-          </Link>
+          <FigureCard key={f.slug} figure={f} />
         ))}
       </div>
       {list.length === 0 && (

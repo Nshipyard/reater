@@ -63,7 +63,7 @@ export default async function FigurePage({
   const sources = uniqueSources().filter((s) =>
     recs.some((r) => r.source.url === s.url)
   );
-  const others = FIGURES.filter((f) => f.slug !== slug)
+  const others = FIGURES.filter((f) => f.slug !== slug && recsForFigure(f.slug).length > 0)
     .slice(0, 3)
     .map((f) => {
       const fr = recsForFigure(f.slug);
@@ -230,7 +230,7 @@ export default async function FigurePage({
       {/* More figures */}
       <section className="mx-auto max-w-6xl px-5 py-16">
         <h2 className="font-display mb-6 text-3xl font-bold md:text-4xl">Keep exploring</h2>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-4 md:grid-cols-2">
           {others.map((f) => (
             <FigureCard key={f.slug} figure={f} />
           ))}
