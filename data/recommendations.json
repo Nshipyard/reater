@@ -1,1 +1,1069 @@
-[{"book":"thinking-fast-and-slow","figure":"bill-gates","quote":null,"source":{"date":null,"title":"GatesNotes Books","type":"blog","url":"https://www.gatesnotes.com/Books"}},{"book":"sapiens","figure":"bill-gates","quote":null,"source":{"date":null,"title":"GatesNotes Books","type":"blog","url":"https://www.gatesnotes.com/Books"}},{"book":"superintelligence","figure":"bill-gates","quote":null,"source":{"date":null,"title":"GatesNotes Books","type":"blog","url":"https://www.gatesnotes.com/Books"}},{"book":"team-of-rivals","figure":"barack-obama","quote":null,"source":{"date":null,"title":"Barack Obama on Medium","type":"list","url":"https://barackobama.medium.com/"}},{"book":"sapiens","figure":"barack-obama","quote":null,"source":{"date":null,"title":"Barack Obama on Medium","type":"list","url":"https://barackobama.medium.com/"}},{"book":"thinking-fast-and-slow","figure":"barack-obama","quote":null,"source":{"date":null,"title":"Barack Obama on Medium","type":"list","url":"https://barackobama.medium.com/"}},{"book":"the-beginning-of-infinity","figure":"sam-altman","quote":null,"source":{"date":null,"title":"Sam Altman blog","type":"blog","url":"https://blog.samaltman.com/"}},{"book":"superintelligence","figure":"sam-altman","quote":null,"source":{"date":null,"title":"Sam Altman blog","type":"blog","url":"https://blog.samaltman.com/"}},{"book":"poor-charlies-almanack","figure":"sam-altman","quote":null,"source":{"date":null,"title":"Sam Altman blog","type":"blog","url":"https://blog.samaltman.com/"}}]
+[
+  {
+    "figure": "barack-obama",
+    "book": "chip-war",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "how-to-say-babylon",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "king-a-life",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "poverty-by-america",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "the-anxious-generation",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2024",
+      "url": "http://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2024-30f3bed1e823",
+      "date": "2024-12-21"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "the-heaven-earth-grocery-store",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "the-maniac",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "barack-obama",
+    "book": "the-wager",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Here Are My Favorite Books, Movies, and Music of 2023",
+      "url": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+      "date": "2023-12-29"
+    }
+  },
+  {
+    "figure": "oprah-winfrey",
+    "book": "hello-beautiful",
+    "quote": "This book has the power to transform the way you see your life and even the world.",
+    "source": {
+      "type": "blog",
+      "title": "Oprah's 100th Book Club Pick: 'Hello Beautiful'",
+      "url": "https://www.oprah.com/oprahsbookclub/oprahs-100th-book-club-pick-hello-beautiful",
+      "date": "2023-03-14"
+    }
+  },
+  {
+    "figure": "oprah-winfrey",
+    "book": "the-covenant-of-water",
+    "quote": "It's one of the best books I've read in my entire life.",
+    "source": {
+      "type": "blog",
+      "title": "Oprah's 101st Book Club Pick: 'The Covenant of Water'",
+      "url": "https://www.oprah.com/oprahsbookclub/oprahs-101st-book-club-pick-the-covenant-of-water",
+      "date": null
+    }
+  },
+  {
+    "figure": "oprah-winfrey",
+    "book": "the-poisonwood-bible",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "Oprah's Book Club: 'The Poisonwood Bible' by Barbara Kingsolver",
+      "url": "https://www.oprah.com/book/oprahs-book-club-the-poisonwood-bible-by-barbara-kingsolver",
+      "date": null
+    }
+  },
+  {
+    "figure": "oprah-winfrey",
+    "book": "the-water-dancer",
+    "quote": "I have not felt this way about a book since Beloved.",
+    "source": {
+      "type": "blog",
+      "title": "Oprah's Book Club: 'The Water Dancer' by Ta-Nehisi Coates",
+      "url": "https://oprah.com/book/oprahs-book-club-the-water-dancer-by-ta-nehisi-coates",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "investing-between-the-lines",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "2012 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "poor-charlie-s-almanack",
+    "quote": "Just buy a copy and carry it around; it will make you look urbane and erudite.",
+    "source": {
+      "type": "blog",
+      "title": "2010 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2010ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "shoe-dog",
+    "quote": "The best book I read last year was Shoe Dog, by Nike's Phil Knight.",
+    "source": {
+      "type": "blog",
+      "title": "2016 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2016ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "the-clash-of-the-cultures",
+    "quote": "I also recommend The Clash of the Cultures by Jack Bogle.",
+    "source": {
+      "type": "blog",
+      "title": "2012 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "the-intelligent-investor",
+    "quote": "Picking up that book was one of the luckiest moments in my life.",
+    "source": {
+      "type": "blog",
+      "title": "2011 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2011ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "the-outsiders",
+    "quote": "The Outsiders, by William Thorndike, Jr., is an outstanding book about CEOs who excelled at capital allocation.",
+    "source": {
+      "type": "blog",
+      "title": "2012 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "warren-buffett",
+    "book": "where-are-the-customers-yachts",
+    "quote": "The funniest book ever written about investing, it lightly delivers many truly important messages on the subject.",
+    "source": {
+      "type": "blog",
+      "title": "2006 Letter to Berkshire Hathaway Shareholders",
+      "url": "https://www.berkshirehathaway.com/letters/2006ltr.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "born-a-crime",
+    "quote": "His outlook transcends borders.",
+    "source": {
+      "type": "blog",
+      "title": "5 memoirs that inspired my own, Source Code",
+      "url": "https://www.gatesnotes.com/summer-books-2025",
+      "date": "2025-05-22"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "chasing-hope",
+    "quote": "His book made me think: The world would be better off with more Nick Kristofs.",
+    "source": {
+      "type": "blog",
+      "title": "5 memoirs that inspired my own, Source Code",
+      "url": "https://www.gatesnotes.com/summer-books-2025",
+      "date": "2025-05-22"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "educated",
+    "quote": "Tara beautifully captures that process of self-discovery in this unforgettable memoir.",
+    "source": {
+      "type": "blog",
+      "title": "5 memoirs that inspired my own, Source Code",
+      "url": "https://www.gatesnotes.com/summer-books-2025",
+      "date": "2025-05-22"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "how-not-to-be-wrong",
+    "quote": "This book has tons of good stuff in it for non-mathematicians.",
+    "source": {
+      "type": "list",
+      "title": "Here are the 5 books Bill Gates thinks you should read this summer, 2016",
+      "url": "https://ceoworld.biz/2016/05/20/5-books-bill-gates-thinks-read-summer-2016/",
+      "date": "2016-05-20"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "personal-history",
+    "quote": "This thoughtful memoir is a good reminder that great leaders can come from unexpected places.",
+    "source": {
+      "type": "blog",
+      "title": "5 memoirs that inspired my own, Source Code",
+      "url": "https://www.gatesnotes.com/summer-books-2025",
+      "date": "2025-05-22"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "sapiens",
+    "quote": "Harari takes on a daunting challenge: to tell the entire history of the human race in just 400 pages.",
+    "source": {
+      "type": "list",
+      "title": "Bill Gates thinks you should read these 5 books this summer",
+      "url": "https://www.geekwire.com/2016/bill-gates-thinks-read-6-books-summer/",
+      "date": "2016-05-17"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "seveneves",
+    "quote": "Seveneves inspired me to rekindle my sci-fi habit.",
+    "source": {
+      "type": "list",
+      "title": "Bill Gates thinks you should read these 5 books this summer",
+      "url": "https://www.geekwire.com/2016/bill-gates-thinks-read-6-books-summer/",
+      "date": "2016-05-17"
+    }
+  },
+  {
+    "figure": "bill-gates",
+    "book": "surrender",
+    "quote": "It was a great model for how I could be open about my own challenges in Source Code.",
+    "source": {
+      "type": "blog",
+      "title": "5 memoirs that inspired my own, Source Code",
+      "url": "https://www.gatesnotes.com/summer-books-2025",
+      "date": "2025-05-22"
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "benjamin-franklin-an-american-life",
+    "quote": "You can see how he was an entrepreneur. He started from nothing. He was just a runaway kid. Franklin's pretty awesome.",
+    "source": {
+      "type": "interview",
+      "title": "A look inside Elon Musk's reading list",
+      "url": "https://www.humanresourcesonline.net/a-look-inside-elon-musks-reading-list",
+      "date": null
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "howard-hughes-his-life-and-madness",
+    "quote": "Definitely want to make sure I don't grow my fingernails too long and start peeing in jars.",
+    "source": {
+      "type": "interview",
+      "title": "Elon Musk Book Advice by Grade Reading Level",
+      "url": "https://www.alphabeautics.com/baby/musk-books-by-reading-level/",
+      "date": null
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "life-3-0",
+    "quote": "a compelling guide to the challenges and choices in our quest for a great future of life, intelligence and consciousness",
+    "source": {
+      "type": "list",
+      "title": "61 Books Elon Musk Thinks You Should Read",
+      "url": "https://www.entrepreneur.com/living/61-books-elon-musk-thinks-you-should-read/355673",
+      "date": null
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "our-final-invention",
+    "quote": "worth reading",
+    "source": {
+      "type": "list",
+      "title": "Book Recommendations from Elon Musk, Jeff Bezos, Bill Gates",
+      "url": "https://www.entrepreneur.com/business-news/book-recommendations-from-elon-musk-jeff-bezos-bill-gates/454946",
+      "date": null
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "structures-or-why-things-don-t-fall-down",
+    "quote": "It is really, really good if you want a primer on structural design.",
+    "source": {
+      "type": "interview",
+      "title": "10 Books Recommended By Elon Musk That Can Change Your Life",
+      "url": "https://edumanias.com/elearning/books-recommended-by-elon-musk/",
+      "date": null
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "superintelligence",
+    "quote": "Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.",
+    "source": {
+      "type": "tweet",
+      "title": "Elon Musk on X",
+      "url": "https://twitter.com/elonmusk/status/495759307346952192",
+      "date": "2014-08-03"
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "the-hitchhiker-s-guide-to-the-galaxy",
+    "quote": "a lot of times the question is harder than the answer",
+    "source": {
+      "type": "interview",
+      "title": "Transcript of Elon Musk Interview: Iron Man, Growing up in South Africa",
+      "url": "http://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/",
+      "date": "2013-02-07"
+    }
+  },
+  {
+    "figure": "elon-musk",
+    "book": "zero-to-one",
+    "quote": "Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.",
+    "source": {
+      "type": "list",
+      "title": "10 Books Recommended by Elon Musk",
+      "url": "https://www.storizen.com/blog/10-books-recommended-by-elon-musk/",
+      "date": null
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "mindset",
+    "quote": "the learn-it-all will always trump the know-it-all in the long run",
+    "source": {
+      "type": "interview",
+      "title": "Satya Nadella says this book gave him the 'intuition' he needed to revamp Microsoft",
+      "url": "https://community.thriveglobal.com/satya-nadella-says-this-book-gave-him-the-intuition-he-needed-to-revamp-microsoft/509",
+      "date": null
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "nonviolent-communication",
+    "quote": null,
+    "source": {
+      "type": "interview",
+      "title": "Satya Nadella Rewrites Microsoft's Code",
+      "url": "https://www.fastcompany.com/40457458/satya-nadella-rewrites-microsofts-code",
+      "date": "2017-09"
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "prosperity",
+    "quote": null,
+    "source": {
+      "type": "interview",
+      "title": "Microsoft CEO Satya Nadella Discusses Books for Corporation Growth",
+      "url": "https://winbuzzer.com/2020/01/27/video-microsoft-ceo-satya-nadella-discusses-books-for-corporation-growth-xcxwbn/",
+      "date": "2020-01-27"
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "shaping-the-future-of-the-fourth-industrial-revolution",
+    "quote": null,
+    "source": {
+      "type": "interview",
+      "title": "Microsoft CEO Satya Nadella Discusses Books for Corporation Growth",
+      "url": "https://winbuzzer.com/2020/01/27/video-microsoft-ceo-satya-nadella-discusses-books-for-corporation-growth-xcxwbn/",
+      "date": "2020-01-27"
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "the-great-convergence",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "The Great Convergence",
+      "url": "https://www.goodreads.com/book/show/42585046-the-great-convergence",
+      "date": null
+    }
+  },
+  {
+    "figure": "satya-nadella",
+    "book": "the-narrow-corridor",
+    "quote": null,
+    "source": {
+      "type": "interview",
+      "title": "Microsoft CEO Satya Nadella Discusses Books for Corporation Growth",
+      "url": "https://winbuzzer.com/2020/01/27/video-microsoft-ceo-satya-nadella-discusses-books-for-corporation-growth-xcxwbn/",
+      "date": "2020-01-27"
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "blitzscaling",
+    "quote": "And have been waiting for it to come out so that I can recommend it to everyone.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "endurance",
+    "quote": "By endurance we conquer struck me as a great piece of startup wisdom.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "mind-of-napoleon",
+    "quote": "An incredible primary-source portrait on a brilliant but obviously deeply flawed individual.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "superintelligence",
+    "quote": "The best thing I've seen on this topic. It is well worth a read.",
+    "source": {
+      "type": "blog",
+      "title": "Machine intelligence, part 1",
+      "url": "https://blog.samaltman.com/machine-intelligence-part-1",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "the-beginning-of-infinity",
+    "quote": "Books have inspired me more than anyone else's.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "the-sleepwalkers",
+    "quote": "This is a really good book, and has been on my mind watching the Ukraine situation develop.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "the-way-to-love",
+    "quote": "It's really short I recommend it a lot, it's called The Way to Love by Anthony de Mello.",
+    "source": {
+      "type": "list",
+      "title": "62 books Sam Altman mentioned, ranked!",
+      "url": "https://recommentions.com/sam-altman/books/",
+      "date": null
+    }
+  },
+  {
+    "figure": "sam-altman",
+    "book": "zero-to-one",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "The Nine Books Sam Altman Recommends Everyone Should Read",
+      "url": "https://blinkist.com/magazine/posts/sam-altman-book-recommendations",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "age-of-ambition",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "hard-landing",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "poor-charlie-s-almanack",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "Patrick Collison, CEO of Stripe",
+      "url": "http://tim.blog/2018/12/20/patrick-collison/",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "something-incredibly-wonderful-happens",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "stories-of-your-life-and-others",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "the-dream-machine",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "the-rise-and-fall-of-american-growth",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "Patrick Collison, CEO of Stripe",
+      "url": "http://tim.blog/2018/12/20/patrick-collison/",
+      "date": null
+    }
+  },
+  {
+    "figure": "patrick-collison",
+    "book": "whole-earth-discipline",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Bookshelf",
+      "url": "https://patrickcollison.com/bookshelf",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "a-sense-of-where-you-are",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "barbarian-days",
+    "quote": "It's one of those rare books that divide your life into two parts: before you read it, and after.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "founders-at-work",
+    "quote": "Probably the single most valuable book a startup founder could read.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "mathematician-s-delight",
+    "quote": "One of the best books I can think of to learn what math is really about.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "the-copernican-revolution",
+    "quote": "Excellent book incidentally.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "the-double-helix",
+    "quote": "The most impressive feature of this book is how much the author admits he didn't know.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "the-making-of-europe",
+    "quote": "I know I've recommended this book already, but it's so good I have to do it again.",
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "paul-graham",
+    "book": "the-power-law",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "Paul Graham Recommended Books",
+      "url": "https://www.readupnext.com/people/paul-graham",
+      "date": null
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "conscious-business",
+    "quote": "the two books that I have recently most given out, one of them is Conscious Business by Fred Kaufman.",
+    "source": {
+      "type": "podcast",
+      "title": "The Tim Ferriss Show #101: The Oracle of Silicon Valley",
+      "url": "https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/",
+      "date": "2015-08-31"
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "dune",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "Conversations with Tyler: Reid Hoffman on Silicon Valley Memes, Talent, and Science Fiction",
+      "url": "https://podcastnotes.org/conversations-with-tyler/reid-hoffman-tyler-cowen-talent-science-fiction-board-games/",
+      "date": null
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "ender-s-game",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "Conversations with Tyler: Reid Hoffman on Silicon Valley Memes, Talent, and Science Fiction",
+      "url": "https://podcastnotes.org/conversations-with-tyler/reid-hoffman-tyler-cowen-talent-science-fiction-board-games/",
+      "date": null
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "g-del-escher-bach",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "AI and I, Ep. 18: Reid Hoffman on How AI is Answering Our Biggest Questions",
+      "url": "https://www.iheart.com/podcast/867-ai-and-i-148497918/episode/reid-hoffman-on-how-ai-is-168338325/",
+      "date": null
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "sapiens",
+    "quote": "And then the other one is Sapiens, by Yuval Harari.",
+    "source": {
+      "type": "podcast",
+      "title": "The Tim Ferriss Show #101: The Oracle of Silicon Valley",
+      "url": "https://tim.blog/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/",
+      "date": "2015-08-31"
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "the-gene",
+    "quote": null,
+    "source": {
+      "type": "list",
+      "title": "What CEOs are reading (McKinsey)",
+      "url": "https://www.mckinsey.com/global-themes/leadership/what-ceos-are-reading?cid=other-eml-alt-mip-mck-oth-1607",
+      "date": null
+    }
+  },
+  {
+    "figure": "reid-hoffman",
+    "book": "the-seventh-sense",
+    "quote": "there is one book to be sure to read: Joshua Ramo's new book, a masterpiece, The Seventh Sense.",
+    "source": {
+      "type": "list",
+      "title": "What CEOs are reading (McKinsey)",
+      "url": "https://www.mckinsey.com/global-themes/leadership/what-ceos-are-reading?cid=other-eml-alt-mip-mck-oth-1607",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "influence",
+    "quote": "It is one of the best business and skill books ever written. I recommend it to everybody.",
+    "source": {
+      "type": "youtube",
+      "title": "Naval Ravikant on Influence (YouTube Short)",
+      "url": "https://www.youtube.com/shorts/puERlQGJ0yM",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "meditations",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "The Tim Ferriss Show #97: The Evolutionary Angel",
+      "url": "https://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+      "date": "2015-08-18"
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "poor-charlie-s-almanack",
+    "quote": "I always recommend this book as my top business book.",
+    "source": {
+      "type": "tweet",
+      "title": "Naval Ravikant on X",
+      "url": "https://x.com/naval/status/262660574922547200",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "sapiens",
+    "quote": "Sapiens is the best book of the last decade I have read.",
+    "source": {
+      "type": "tweet",
+      "title": "Naval Ravikant's 25 book recommendations (X thread)",
+      "url": "https://en.rattibha.com/thread/1740625525415227727",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "siddhartha",
+    "quote": "I've given out more copies of this book than any other.",
+    "source": {
+      "type": "book",
+      "title": "The Almanack of Naval Ravikant",
+      "url": "https://www.navalmanack.com/",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "skin-in-the-game",
+    "quote": null,
+    "source": {
+      "type": "tweet",
+      "title": "Naval Ravikant on X",
+      "url": "https://twitter.com/naval/status/1236172401940942854",
+      "date": "2020-03-07"
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "the-beginning-of-infinity",
+    "quote": null,
+    "source": {
+      "type": "tweet",
+      "title": "Naval Ravikant on X",
+      "url": "https://twitter.com/naval/status/1524619305685454849",
+      "date": null
+    }
+  },
+  {
+    "figure": "naval-ravikant",
+    "book": "the-rational-optimist",
+    "quote": null,
+    "source": {
+      "type": "tweet",
+      "title": "Naval Ravikant on X",
+      "url": "https://twitter.com/naval/status/1236172401940942854",
+      "date": "2020-03-07"
+    }
+  },
+  {
+    "figure": "jensen-huang",
+    "book": "computer-architecture-a-quantitative-approach",
+    "quote": "The book that made a huge impact on me was Computer Architecture from Hennessy and Patterson.",
+    "source": {
+      "type": "podcast",
+      "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "url": "https://the-ezra-klein-show.simplecast.com/episodes/jensen-huang-Mry89zXH",
+      "date": "2026-09-23"
+    }
+  },
+  {
+    "figure": "jensen-huang",
+    "book": "positioning",
+    "quote": "I really loved Al Ries's and Jack Trout's book on positioning.",
+    "source": {
+      "type": "podcast",
+      "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "url": "https://the-ezra-klein-show.simplecast.com/episodes/jensen-huang-Mry89zXH",
+      "date": "2026-09-23"
+    }
+  },
+  {
+    "figure": "jensen-huang",
+    "book": "snow-crash",
+    "quote": null,
+    "source": {
+      "type": "interview",
+      "title": "GamesBeat: The physical world and the metaverse can be connected",
+      "url": "https://gamesbeat.com/jensen-huang-interview-the-physical-world-and-the-metaverse-can-be-connected/",
+      "date": null
+    }
+  },
+  {
+    "figure": "jensen-huang",
+    "book": "the-innovator-s-dilemma",
+    "quote": "I really loved Innovator's Dilemma.",
+    "source": {
+      "type": "podcast",
+      "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "url": "https://the-ezra-klein-show.simplecast.com/episodes/jensen-huang-Mry89zXH",
+      "date": "2026-09-23"
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "consider-phlebas",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "A.I. Could Solve Some of Humanity's Hardest Problems. It Already Has., The Ezra Klein Show",
+      "url": "https://podcasts.apple.com/ca/podcast/a-i-could-solve-some-of-humanitys-hardest-problems/id1548604447?i=1000620748039",
+      "date": "2023-07-11"
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "foundation",
+    "quote": "All of which had a big influence on me.",
+    "source": {
+      "type": "book",
+      "title": "Demis Hassabis, DeepMind and AI (interview chapter in Game Changer)",
+      "url": "https://storage.googleapis.com/deepmind-media/podcast/Game%20Changer%20-%20Demis%20Hassabis%20Interview.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "g-del-escher-bach",
+    "quote": "All of which had a big influence on me.",
+    "source": {
+      "type": "book",
+      "title": "Demis Hassabis, DeepMind and AI (interview chapter in Game Changer)",
+      "url": "https://storage.googleapis.com/deepmind-media/podcast/Game%20Changer%20-%20Demis%20Hassabis%20Interview.pdf",
+      "date": null
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "permutation-city",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "A.I. Could Solve Some of Humanity's Hardest Problems. It Already Has., The Ezra Klein Show",
+      "url": "https://podcasts.apple.com/ca/podcast/a-i-could-solve-some-of-humanitys-hardest-problems/id1548604447?i=1000620748039",
+      "date": "2023-07-11"
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "surely-you-re-joking-mr-feynman",
+    "quote": "I really recommend to any student to read those books.",
+    "source": {
+      "type": "interview",
+      "title": "Transcript from an interview with Demis Hassabis, Nobel Prize, 2024",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2024/hassabis/1924974-interview-transcript/",
+      "date": "2024-12-06"
+    }
+  },
+  {
+    "figure": "demis-hassabis",
+    "book": "the-fabric-of-reality",
+    "quote": null,
+    "source": {
+      "type": "podcast",
+      "title": "A.I. Could Solve Some of Humanity's Hardest Problems. It Already Has., The Ezra Klein Show",
+      "url": "https://podcasts.apple.com/ca/podcast/a-i-could-solve-some-of-humanitys-hardest-problems/id1548604447?i=1000620748039",
+      "date": "2023-07-11"
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "adam-smith-an-enlightened-life",
+    "quote": "It showed that Smith is still the greatest economist of all time, wise about human nature, and that he understands the power of capitalism.",
+    "source": {
+      "type": "interview",
+      "title": "The best business books of 2010, Marketplace",
+      "url": "https://www.marketplace.org/story/2010/12/16/best-business-books-2010",
+      "date": "2010-12-16"
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "skin-in-the-game",
+    "quote": "This is Taleb's deepest and most Straussian book.",
+    "source": {
+      "type": "blog",
+      "title": "*Skin in the Game*, the new Nassim Taleb book, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/02/skin-game-new-nassim-taleb-book.html",
+      "date": null
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "the-dream-machine",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "Best non-fiction books of 2018, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/11/best-non-fiction-books-2018.html",
+      "date": null
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "the-elephant-in-the-brain",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "Best non-fiction books of 2018, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/11/best-non-fiction-books-2018.html",
+      "date": null
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "the-revolt-of-the-public",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "Best non-fiction books of 2018, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/11/best-non-fiction-books-2018.html",
+      "date": null
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "the-wizard-and-the-prophet",
+    "quote": null,
+    "source": {
+      "type": "blog",
+      "title": "Best non-fiction books of 2018, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/11/best-non-fiction-books-2018.html",
+      "date": null
+    }
+  },
+  {
+    "figure": "tyler-cowen",
+    "book": "who-we-are-and-how-we-got-here",
+    "quote": "This is a truly excellent work, readable and informative at A to A+ quality.",
+    "source": {
+      "type": "blog",
+      "title": "*Who We Are and How We Got Here*, by David Reich, Marginal Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2018/03/got-david-reich.html",
+      "date": null
+    }
+  }
+]

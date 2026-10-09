@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
-import { coverUrl } from "@/lib/site";
+import { coverUrl, coverUrlById } from "@/lib/site";
+import type { Book } from "@/lib/types";
 
 const PALETTE = [
   "#1d3a8f",
@@ -19,10 +20,7 @@ function hashColor(slug: string): string {
 }
 
 interface Props {
-  isbn: string | null;
-  title: string;
-  author: string;
-  slug: string;
+  book: Pick<Book, "coverId" | "isbn13" | "title" | "author" | "slug">;
   className?: string;
   eager?: boolean;
   sizes?: string;
@@ -30,17 +28,22 @@ interface Props {
 
 /** Real cover from Open Library, with a typographic fallback when missing. */
 export function Cover({
-  isbn,
-  title,
-  author,
-  slug,
+  book,
   className = "",
   eager = false,
   sizes = "(max-width: 640px) 40vw, 240px",
 }: Props) {
   const [failed, setFailed] = useState(false);
+  const { coverId, isbn13, title, author, slug } = book;
+  const urlFor = (size: "S" | "M" | "L"): string | null =>
+    coverId
+      ? coverUrlById(coverId, size)
+      : isbn13
+        ? coverUrl(isbn13, size)
+        : null;
+  const src = urlFor("M");
 
-  if (!isbn || failed) {
+  if (!src || failed) {
     return (
       <div
         role="img"
@@ -58,13 +61,18 @@ export function Cover({
     );
   }
 
+  const srcSet = ["S", "M", "L"]
+    .map((s) => {
+      const u = urlFor(s as "S" | "M" | "L");
+      return u ? `${u} ${s === "S" ? 160 : s === "M" ? 360 : 720}w` : null;
+    })
+    .filter(Boolean)
+    .join(", ");
+
   return (
     <img
-      src={coverUrl(isbn, "M")}
-      srcSet={`${coverUrl(isbn, "S")} 160w, ${coverUrl(isbn, "M")} 360w, ${coverUrl(
-        isbn,
-        "L"
-      )} 720w`}
+      src={src}
+      srcSet={srcSet || undefined}
       sizes={sizes}
       alt={`Cover of ${title} by ${author}`}
       loading={eager ? "eager" : "lazy"}

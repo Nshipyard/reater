@@ -30,7 +30,7 @@ function withCounts() {
         .slice(0, 3)
         .map((r) => bookBySlug(r.book)!)
         .filter(Boolean)
-        .map((b) => ({ slug: b.slug, title: b.title, author: b.author, isbn13: b.isbn13 })),
+        .map((b) => ({ slug: b.slug, title: b.title, author: b.author, isbn13: b.isbn13, coverId: b.coverId })),
     };
   });
 }
@@ -130,13 +130,7 @@ export default function Home() {
                   {i + 1}
                 </span>
                 <div className="w-12 shrink-0 overflow-hidden rounded shadow">
-                  <Cover
-                    isbn={t.book.isbn13}
-                    title={t.book.title}
-                    author={t.book.author}
-                    slug={t.book.slug}
-                    sizes="80px"
-                  />
+                  <Cover book={t.book} sizes="80px" />
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="truncate font-display text-lg font-bold">{t.book.title}</p>

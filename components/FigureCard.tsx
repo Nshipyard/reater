@@ -5,7 +5,7 @@ import { initials } from "@/lib/site";
 
 export interface CardFigure extends Figure {
   bookCount: number;
-  topBooks: { slug: string; title: string; author: string; isbn13: string | null }[];
+  topBooks: { slug: string; title: string; author: string; isbn13: string | null; coverId: number | null }[];
 }
 
 /** At-a-glance figure card: identity, book count, mini covers. */
@@ -34,7 +34,7 @@ export function FigureCard({ figure }: { figure: CardFigure }) {
         <div className="flex -space-x-3">
           {figure.topBooks.slice(0, 3).map((b) => (
             <div key={b.slug} className="w-12 overflow-hidden rounded shadow-md ring-2 ring-white">
-              <Cover isbn={b.isbn13} title={b.title} author={b.author} slug={b.slug} sizes="80px" />
+              <Cover book={b} sizes="80px" />
             </div>
           ))}
         </div>

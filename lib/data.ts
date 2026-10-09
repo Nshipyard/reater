@@ -3,7 +3,10 @@ import booksData from "@/data/books.json";
 import recsData from "@/data/recommendations.json";
 import type { Book, Figure, Recommendation } from "./types";
 
-export const FIGURES = figuresData as Figure[];
+export const FIGURES: Figure[] = (figuresData as Figure[]).map((f) => ({
+  ...f,
+  color: f.color || { bg: "#1d3a8f", fg: "#ffffff", accent: "#d9481c" },
+}));
 export const BOOKS = booksData as Book[];
 export const RECS = recsData as Recommendation[];
 

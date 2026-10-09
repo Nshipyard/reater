@@ -54,10 +54,7 @@ export function Book3D({ book, width = 230, eager = false }: Props) {
           }}
         >
           <Cover
-            isbn={book.isbn13}
-            title={book.title}
-            author={book.author}
-            slug={book.slug}
+            book={book}
             eager={eager}
             sizes={`${width}px`}
           />

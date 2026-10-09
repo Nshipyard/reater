@@ -24,10 +24,7 @@ function BookRow({ item, accent }: { item: EnrichedRec; accent: string }) {
         aria-label={`About ${book.title}`}
       >
         <Cover
-          isbn={book.isbn13}
-          title={book.title}
-          author={book.author}
-          slug={book.slug}
+          book={book}
           className="rounded-md shadow-md"
           sizes="120px"
         />

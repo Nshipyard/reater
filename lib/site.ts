@@ -24,6 +24,13 @@ export function coverUrl(
   return `https://covers.openlibrary.org/b/isbn/${isbn13}-${size}.jpg?default=false`;
 }
 
+export function coverUrlById(
+  coverId: number,
+  size: "S" | "M" | "L" = "M"
+): string {
+  return `https://covers.openlibrary.org/b/id/${coverId}-${size}.jpg?default=false`;
+}
+
 export function initials(name: string): string {
   return name
     .split(" ")

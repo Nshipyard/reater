@@ -68,7 +68,7 @@ export default async function FigurePage({
           .slice(0, 3)
           .map((r) => bookBySlug(r.book)!)
           .filter(Boolean)
-          .map((b) => ({ slug: b.slug, title: b.title, author: b.author, isbn13: b.isbn13 })),
+          .map((b) => ({ slug: b.slug, title: b.title, author: b.author, isbn13: b.isbn13, coverId: b.coverId })),
       };
     });
 

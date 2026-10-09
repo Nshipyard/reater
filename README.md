@@ -25,13 +25,13 @@ Live at **https://books.nshipyard.com**
 `data/` holds three JSON files:
 
 - `figures.json`: slug, name, role, category, bio, listUrl, color theme
-- `books.json`: slug, title, author, isbn13 (Open Library covers), asin
+- `books.json`: slug, title, author, coverId (Open Library cover), isbn13, asin
   (Amazon), audibleAsin (Audible), year, categories
 - `recommendations.json`: figure slug, book slug, optional verbatim quote,
   and source `{type, title, url, date}`
 
-Covers come from the Open Library covers API by ISBN. Books without a
-verified ISBN render a typographic fallback cover.
+Covers come from the Open Library covers API by cover ID (falling back
+to ISBN). Books without a cover render a typographic fallback cover.
 
 ## Source tracking
 

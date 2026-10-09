@@ -42,13 +42,7 @@ export function TopTable({ ranked }: { ranked: RankedBook[] }) {
                 {i + 1}
               </span>
               <div className="w-14 shrink-0 overflow-hidden rounded shadow-md sm:w-16">
-                <Cover
-                  isbn={r.book.isbn13}
-                  title={r.book.title}
-                  author={r.book.author}
-                  slug={r.book.slug}
-                  sizes="100px"
-                />
+                <Cover book={r.book} sizes="100px" />
               </div>
               <div className="min-w-0 flex-1">
                 <p className="font-display text-lg font-bold leading-tight sm:text-xl">

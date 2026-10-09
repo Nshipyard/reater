@@ -7,7 +7,7 @@ import { initials } from "@/lib/site";
 
 export interface FigureWithCount extends Figure {
   bookCount: number;
-  topBooks: { slug: string; title: string; author: string; isbn13: string | null }[];
+  topBooks: { slug: string; title: string; author: string; isbn13: string | null; coverId: number | null }[];
 }
 
 const CATEGORIES = ["All", "Founders", "Investors", "Leaders", "Authors", "Scientists", "Artists"];
@@ -51,7 +51,7 @@ export function FiguresDirectory({ figures }: { figures: FigureWithCount[] }) {
               <div className="flex -space-x-3">
                 {f.topBooks.slice(0, 3).map((b) => (
                   <div key={b.slug} className="w-12 overflow-hidden rounded shadow-md ring-2 ring-white">
-                    <Cover isbn={b.isbn13} title={b.title} author={b.author} slug={b.slug} sizes="80px" />
+                    <Cover book={b} sizes="80px" />
                   </div>
                 ))}
               </div>

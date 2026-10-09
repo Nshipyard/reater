@@ -36,6 +36,7 @@ export interface Book {
   title: string;
   author: string;
   isbn13: string | null;
+  coverId: number | null;
   asin: string | null;
   audibleAsin: string | null;
   year: number | null;

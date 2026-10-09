@@ -31,7 +31,7 @@ export default function BooksIndex() {
             className="group rounded-3xl border border-ink/10 bg-white p-4 transition hover:shadow-[0_8px_30px_rgba(23,19,11,0.08)]"
           >
             <div className="overflow-hidden rounded-lg shadow-md">
-              <Cover isbn={book.isbn13} title={book.title} author={book.author} slug={book.slug} sizes="220px" />
+              <Cover book={book} sizes="220px" />
             </div>
             <p className="font-display mt-3 font-bold leading-tight group-hover:underline">
               {book.title}

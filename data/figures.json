@@ -1,1 +1,184 @@
-[{"bio":"Publishes a reading list every year, spanning fiction, history, and science. His lists move the publishing market.","category":"Leaders","color":{"accent":"#FFD166","bg":"#2328A8","fg":"#F6B8EC"},"listUrl":"https://barackobama.medium.com/","name":"Barack Obama","role":"44th President of the United States","slug":"barack-obama"},{"bio":"Reviews everything he reads on GatesNotes, with unusual depth on global health, energy, and history.","category":"Founders","color":{"accent":"#D9481C","bg":"#F4EDDE","fg":"#1C1A14"},"listUrl":"https://www.gatesnotes.com/Books","name":"Bill Gates","role":"Co-founder, Microsoft","slug":"bill-gates"},{"bio":"Keeps a public list of books that shaped his thinking on startups, physics, and the future.","category":"Founders","color":{"accent":"#8B7CFF","bg":"#101014","fg":"#F4F2EA"},"listUrl":"https://blog.samaltman.com/","name":"Sam Altman","role":"CEO, OpenAI","slug":"sam-altman"}]
+[
+  {
+    "slug": "barack-obama",
+    "name": "Barack Obama",
+    "role": "44th President of the United States",
+    "category": "Leaders",
+    "bio": "Barack Obama served as the 44th President of the United States from 2009 to 2017. He publishes an annual list of his favorite books each December.",
+    "listUrl": "https://barackobama.medium.com/here-are-my-favorite-books-movies-and-music-of-2023-3bc178471aed",
+    "color": {
+      "bg": "#2328A8",
+      "fg": "#F6B8EC",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "oprah-winfrey",
+    "name": "Oprah Winfrey",
+    "role": "media executive and talk show host",
+    "category": "Artists",
+    "bio": "Oprah Winfrey is a media executive and talk show host who built one of the most influential book clubs in the world. Her picks have launched dozens of books onto bestseller lists since 1996.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7C2D12",
+      "fg": "#FFE8D6",
+      "accent": "#F4A259"
+    }
+  },
+  {
+    "slug": "warren-buffett",
+    "name": "Warren Buffett",
+    "role": "chairman and CEO of Berkshire Hathaway",
+    "category": "Investors",
+    "bio": "Warren Buffett is the chairman and CEO of Berkshire Hathaway and one of the most successful investors in history. He recommends books in Berkshire's annual shareholder letters.",
+    "listUrl": "https://www.berkshirehathaway.com/letters/letters.html",
+    "color": {
+      "bg": "#1B4332",
+      "fg": "#D8F3DC",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "bill-gates",
+    "name": "Bill Gates",
+    "role": "Co-founder of Microsoft",
+    "category": "Founders",
+    "bio": "Co-founder of Microsoft and one of the world's best-known philanthropists. He publishes detailed book reviews and annual reading lists on his blog, GatesNotes.",
+    "listUrl": "https://www.gatesnotes.com/summer-books-2025",
+    "color": {
+      "bg": "#E8E3D3",
+      "fg": "#1A1A1A",
+      "accent": "#D9481C"
+    }
+  },
+  {
+    "slug": "elon-musk",
+    "name": "Elon Musk",
+    "role": "CEO of Tesla and SpaceX",
+    "category": "Founders",
+    "bio": "CEO of Tesla and SpaceX and founder of xAI. He has named the books that shaped his thinking in tweets and interviews over the years.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0A0A0A",
+      "fg": "#E8E8E8",
+      "accent": "#D9481C"
+    }
+  },
+  {
+    "slug": "satya-nadella",
+    "name": "Satya Nadella",
+    "role": "CEO of Microsoft",
+    "category": "Founders",
+    "bio": "CEO of Microsoft since 2014, credited with reviving its culture and cloud business. He has described the books behind his leadership approach in interviews and in his memoir Hit Refresh.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0078D4",
+      "fg": "#FFFFFF",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "role": "CEO of OpenAI",
+    "category": "Founders",
+    "bio": "Co-founder and CEO of OpenAI. Previously president of Y Combinator, where he ran the startup accelerator from 2014 to 2019.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0F3D2E",
+      "fg": "#ECFDF5",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "patrick-collison",
+    "name": "Patrick Collison",
+    "role": "co-founder and CEO of Stripe",
+    "category": "Founders",
+    "bio": "Co-founder and CEO of Stripe, the payments company he started with his brother John in 2010. Previously founded the auction software company Auctomatic.",
+    "listUrl": "https://patrickcollison.com/bookshelf",
+    "color": {
+      "bg": "#635BFF",
+      "fg": "#FFFFFF",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "paul-graham",
+    "name": "Paul Graham",
+    "role": "co-founder of Y Combinator",
+    "category": "Founders",
+    "bio": "Co-founder of Y Combinator and founder of the ecommerce company Viaweb. Writes the influential essays on startups, programming, and thinking published at paulgraham.com.",
+    "listUrl": null,
+    "color": {
+      "bg": "#F26522",
+      "fg": "#FFFFFF",
+      "accent": "#1A1A1A"
+    }
+  },
+  {
+    "slug": "reid-hoffman",
+    "name": "Reid Hoffman",
+    "role": "Co-founder of LinkedIn",
+    "category": "Founders",
+    "bio": "Co-founder of LinkedIn and partner at Greylock Partners. He hosts the Masters of Scale podcast and wrote The Startup of You and Blitzscaling.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0A66C2",
+      "fg": "#FFFFFF",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "naval-ravikant",
+    "name": "Naval Ravikant",
+    "role": "Co-founder of AngelList",
+    "category": "Investors",
+    "bio": "Co-founder of AngelList and early investor in Twitter and Uber. His writing on wealth, leverage, and happiness is collected in The Almanack of Naval Ravikant.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1D3557",
+      "fg": "#F1FAEE",
+      "accent": "#E63946"
+    }
+  },
+  {
+    "slug": "jensen-huang",
+    "name": "Jensen Huang",
+    "role": "Founder and CEO of NVIDIA",
+    "category": "Founders",
+    "bio": "Co-founder and CEO of NVIDIA since 1993, leading it from graphics chips to the center of the AI era. He is the longest-serving CEO among major technology companies.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1A2E05",
+      "fg": "#D9F99D",
+      "accent": "#76B900"
+    }
+  },
+  {
+    "slug": "demis-hassabis",
+    "name": "Demis Hassabis",
+    "role": "Co-founder of DeepMind and Nobel laureate",
+    "category": "Scientists",
+    "bio": "Co-founder and CEO of Google DeepMind, and 2024 Nobel laureate in Chemistry for the protein-structure work of AlphaFold. He researches artificial general intelligence and how to apply it to scientific discovery.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1E40AF",
+      "fg": "#EFF6FF",
+      "accent": "#FFD166"
+    }
+  },
+  {
+    "slug": "tyler-cowen",
+    "name": "Tyler Cowen",
+    "role": "Economist and author",
+    "category": "Authors",
+    "bio": "George Mason University economist and co-author of the blog Marginal Revolution, one of the most widely read economics blogs. He hosts the Conversations with Tyler podcast and writes on economics, culture, technology, and food.",
+    "listUrl": "https://marginalrevolution.com/marginalrevolution/2018/11/best-non-fiction-books-2018.html",
+    "color": {
+      "bg": "#6B21A8",
+      "fg": "#F5F3FF",
+      "accent": "#FBBF24"
+    }
+  }
+]

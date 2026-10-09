@@ -46,7 +46,7 @@ Base URL: https://books.nshipyard.com
 
 ## Data endpoints (JSON)
 - /api/figures.json - influential figures and their profiles
-- /api/books.json - books with ISBN, Amazon ASIN, Audible ASIN, categories
+- /api/books.json - books with Open Library cover ID, ISBN, Amazon ASIN, Audible ASIN, categories
 - /api/recommendations.json - every recommendation with its source (type, title, URL, date)
 
 ## Pages

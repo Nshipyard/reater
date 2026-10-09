@@ -184,13 +184,7 @@ export default async function BookPage({
                   className="group rounded-3xl border border-ink/10 bg-white p-4 transition hover:shadow-[0_8px_30px_rgba(23,19,11,0.08)]"
                 >
                   <div className="overflow-hidden rounded-lg shadow-md">
-                    <Cover
-                      isbn={r.book.isbn13}
-                      title={r.book.title}
-                      author={r.book.author}
-                      slug={r.book.slug}
-                      sizes="200px"
-                    />
+                    <Cover book={r.book} sizes="200px" />
                   </div>
                   <p className="font-display mt-3 font-bold leading-tight group-hover:underline">
                     {r.book.title}
