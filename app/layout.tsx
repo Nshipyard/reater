@@ -17,22 +17,38 @@ const inter = Inter({
   display: "swap",
 });
 
+const OG_TITLE = "Reater: What the world's most influential people read";
+const OG_DESCRIPTION =
+  "752 book recommendations from 150 of the world's most influential people, each tracked to the source where it appeared.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Reater: What the world's most influential people read",
+    default: OG_TITLE,
     template: "%s | Reater",
   },
-  description:
-    "Book recommendations from the world's most influential people, each tracked to the source where it appeared. Search figures, explore books, see what the influential read.",
+  description: OG_DESCRIPTION,
   openGraph: {
     type: "website",
     siteName: "Reater",
-    title: "Reater: What the world's most influential people read",
-    description:
-      "Book recommendations from the world's most influential people, each tracked to its source.",
+    url: SITE_URL,
+    title: OG_TITLE,
+    description: OG_DESCRIPTION,
+    images: [
+      {
+        url: `${SITE_URL}/og-card.png`,
+        width: 1200,
+        height: 630,
+        alt: OG_TITLE,
+      },
+    ],
   },
-  twitter: { card: "summary_large_image" },
+  twitter: {
+    card: "summary_large_image",
+    title: OG_TITLE,
+    description: OG_DESCRIPTION,
+    images: [`${SITE_URL}/og-card.png`],
+  },
   robots: { index: true, follow: true },
 };
 
