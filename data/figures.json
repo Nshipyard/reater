@@ -1727,5 +1727,226 @@
       "fg": "#F8FAFC",
       "accent": "#FACC15"
     }
+  },
+  {
+    "slug": "ben-horowitz",
+    "name": "Ben Horowitz",
+    "role": "Co-founder of Andreessen Horowitz",
+    "category": "Investors",
+    "bio": "Ben Horowitz co-founded Andreessen Horowitz after leading Opsware through its acquisition by HP. His book The Hard Thing About Hard Things grew out of his widely read blog on management.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0F172A",
+      "fg": "#F1F5F9",
+      "accent": "#38BDF8"
+    }
+  },
+  {
+    "slug": "bill-gurley",
+    "name": "Bill Gurley",
+    "role": "Partner at Benchmark",
+    "category": "Investors",
+    "bio": "Bill Gurley is a general partner at Benchmark, where he led early investments in Uber, Zillow, and Grubhub. He writes the Above the Crowd blog and names his favorite books on podcasts.",
+    "listUrl": null,
+    "color": {
+      "bg": "#422006",
+      "fg": "#FEF3C7",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "brian-chesky",
+    "name": "Brian Chesky",
+    "role": "Co-founder and CEO of Airbnb",
+    "category": "Founders",
+    "bio": "Brian Chesky is the co-founder and CEO of Airbnb, the company he started in 2008 with Joe Gebbia and Nathan Blecharczyk. A trained industrial designer from RISD, he credits a Walt Disney biography with shaping how Airbnb storyboards its guest experience.",
+    "listUrl": null,
+    "color": {
+      "bg": "#B23A1D",
+      "fg": "#FDF3EC",
+      "accent": "#F4A259"
+    }
+  },
+  {
+    "slug": "chris-dixon",
+    "name": "Chris Dixon",
+    "role": "Partner at Andreessen Horowitz, author of Read Write Own",
+    "category": "Investors",
+    "bio": "Chris Dixon is a partner at Andreessen Horowitz, where he leads a16z crypto, and the author of Read Write Own. A former philosophy graduate student turned founder, he recommends books on history, philosophy, and networks in podcasts and interviews.",
+    "listUrl": null,
+    "color": {
+      "bg": "#164E63",
+      "fg": "#ECFEFF",
+      "accent": "#22D3EE"
+    }
+  },
+  {
+    "slug": "daniel-ek",
+    "name": "Daniel Ek",
+    "role": "Co-founder and CEO of Spotify",
+    "category": "Founders",
+    "bio": "Daniel Ek co-founded Spotify in 2006 and has led it as CEO ever since, growing it into the world's largest music streaming service. He reads 60 to 70 books a year and has discussed his favorites on The Tim Ferriss Show and in Tim Ferriss's Tribe of Mentors.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E2A1C",
+      "fg": "#F0FAF4",
+      "accent": "#1DB954"
+    }
+  },
+  {
+    "slug": "drew-houston",
+    "name": "Drew Houston",
+    "role": "Co-founder and CEO of Dropbox",
+    "category": "Founders",
+    "bio": "Drew Houston is the co-founder and CEO of Dropbox, which he founded in 2007 after prototyping it on a bus ride. An MIT-trained engineer, he calls Andy Grove's High Output Management the best book on management ever written.",
+    "listUrl": null,
+    "color": {
+      "bg": "#102A63",
+      "fg": "#EFF6FF",
+      "accent": "#93C5FD"
+    }
+  },
+  {
+    "slug": "fred-wilson",
+    "name": "Fred Wilson",
+    "role": "Co-founder of Union Square Ventures",
+    "category": "Investors",
+    "bio": "Fred Wilson is a co-founder of Union Square Ventures, the New York firm behind Twitter, Etsy, and Coinbase. He has written the AVC blog daily since 2003 and posts regular book recommendations there.",
+    "listUrl": "https://avc.com/",
+    "color": {
+      "bg": "#0F766E",
+      "fg": "#F0FDFA",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "role": "NBA player, Los Angeles Lakers (1996-2016)",
+    "category": "Leaders",
+    "bio": "Kobe Bryant spent his entire 20-year NBA career with the Los Angeles Lakers, winning five championships and a regular-season MVP award. After retiring in 2016 he founded Granity Studios and won an Academy Award for Dear Basketball; he died in a helicopter crash in January 2020.",
+    "listUrl": "https://www.lapl.org/news-stories/articles/kobes-bookshelf",
+    "color": {
+      "bg": "#141414",
+      "fg": "#FAF7EF",
+      "accent": "#FDB927"
+    }
+  },
+  {
+    "slug": "lebron-james",
+    "name": "LeBron James",
+    "role": "NBA player, Los Angeles Lakers",
+    "category": "Leaders",
+    "bio": "LeBron James is a four-time NBA champion and the league's all-time leading scorer, now in his 23rd season with the Los Angeles Lakers. Since the 2012 playoffs he has read before games to tune out the noise, and his documented picks run from The Alchemist to Shoe Dog.",
+    "listUrl": null,
+    "color": {
+      "bg": "#2E1A5E",
+      "fg": "#FFF6E5",
+      "accent": "#FDB927"
+    }
+  },
+  {
+    "bio": "Lewis Hamilton is a seven-time Formula 1 world champion, tied with Michael Schumacher for the most drivers' titles in the sport's history. He named Paulo Coelho's The Alchemist as the one book he would keep, and shared a Black Lives Matter reading list with his followers in 2020.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#00E5CC",
+      "bg": "#062B26",
+      "fg": "#E8FDF5"
+    },
+    "listUrl": null,
+    "name": "Lewis Hamilton",
+    "role": "Formula 1 driver",
+    "slug": "lewis-hamilton"
+  },
+  {
+    "slug": "marc-andreessen",
+    "name": "Marc Andreessen",
+    "role": "Co-founder of Andreessen Horowitz",
+    "category": "Investors",
+    "bio": "Marc Andreessen co-created the Mosaic web browser, co-founded Netscape, and co-founded the venture capital firm Andreessen Horowitz. He recommends books in long Twitter threads and podcast interviews.",
+    "listUrl": null,
+    "color": {
+      "bg": "#312E81",
+      "fg": "#E0E7FF",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "melanie-perkins",
+    "name": "Melanie Perkins",
+    "role": "Co-founder and CEO of Canva",
+    "category": "Founders",
+    "bio": "Melanie Perkins co-founded Canva in 2013 and leads it as CEO, growing the design platform to hundreds of millions of users worldwide. She has repeatedly named Robert Hoekman Jr.'s Designing the Obvious as her favorite book.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0A3A40",
+      "fg": "#F2FBFA",
+      "accent": "#00C4CC"
+    }
+  },
+  {
+    "slug": "serena-williams",
+    "name": "Serena Williams",
+    "role": "Tennis player, 23-time Grand Slam singles champion",
+    "category": "Leaders",
+    "bio": "Serena Williams won 23 Grand Slam singles titles, the most of the Open era, and spent 319 weeks ranked world No. 1. She stepped away from professional tennis in 2022 and now runs the venture firm Serena Ventures.",
+    "listUrl": null,
+    "color": {
+      "bg": "#2F4A0C",
+      "fg": "#F4F8E8",
+      "accent": "#D9E021"
+    }
+  },
+  {
+    "slug": "stewart-butterfield",
+    "name": "Stewart Butterfield",
+    "role": "Co-founder of Slack and Flickr",
+    "category": "Founders",
+    "bio": "Stewart Butterfield co-founded Flickr, then the game studio Tiny Speck, whose internal chat tool became Slack, which he led as CEO until 2023. A philosophy graduate, his public reading runs from management classics and history to the science of psychedelics.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3A0F3D",
+      "fg": "#F7ECF8",
+      "accent": "#E01E5A"
+    }
+  },
+  {
+    "slug": "tobias-lutke",
+    "name": "Tobias Lutke",
+    "role": "Co-founder and CEO of Shopify",
+    "category": "Founders",
+    "bio": "Tobias Lutke is the co-founder and CEO of Shopify, which grew out of the snowboard-shop software he built in 2004. The programmer-turned-CEO credits Robert Cialdini's Influence and Andy Grove's High Output Management with teaching him to lead.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E5E3A",
+      "fg": "#F2FBF4",
+      "accent": "#F2C230"
+    }
+  },
+  {
+    "bio": "Tom Brady is a seven-time Super Bowl champion who played 23 NFL seasons for the New England Patriots and Tampa Bay Buccaneers. He has called Don Miguel Ruiz's The Four Agreements a mantra for his life and says he rereads it every year.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#C8102E",
+      "bg": "#0A3161",
+      "fg": "#F5F1E6"
+    },
+    "listUrl": null,
+    "name": "Tom Brady",
+    "role": "NFL quarterback",
+    "slug": "tom-brady"
+  },
+  {
+    "slug": "vinod-khosla",
+    "name": "Vinod Khosla",
+    "role": "Founder of Khosla Ventures, co-founder of Sun Microsystems",
+    "category": "Investors",
+    "bio": "Vinod Khosla co-founded Sun Microsystems and founded Khosla Ventures, where he backs experimental technology bets. He publishes running book recommendations with one-line verdicts on his blog, Medium, and X.",
+    "listUrl": null,
+    "color": {
+      "bg": "#713F12",
+      "fg": "#FEFCE8",
+      "accent": "#FACC15"
+    }
   }
 ]
