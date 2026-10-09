@@ -180,5 +180,1552 @@
       "fg": "#F5F3FF",
       "accent": "#FBBF24"
     }
+  },
+  {
+    "slug": "luke-combs",
+    "name": "Luke Combs",
+    "role": "Country music star",
+    "category": "Artists",
+    "bio": "Country music star from Asheville, North Carolina, with 19 consecutive number-one singles and multiple CMA and Grammy wins.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3F2A0B",
+      "fg": "#FDF6EC",
+      "accent": "#E9B44C"
+    }
+  },
+  {
+    "slug": "jennie",
+    "name": "Jennie",
+    "role": "K-pop star and solo artist",
+    "category": "Artists",
+    "bio": "South Korean singer, rapper and actress; a member of Blackpink and solo artist behind the 2025 album Ruby.",
+    "listUrl": null,
+    "color": {
+      "bg": "#8C1D40",
+      "fg": "#FFF5F7",
+      "accent": "#F7C948"
+    }
+  },
+  {
+    "slug": "keke-palmer",
+    "name": "Keke Palmer",
+    "role": "Actress, singer, TV host",
+    "category": "Artists",
+    "bio": "Actress, singer and television host who grew up as a child star (Akeelah and the Bee) and became a widely quoted cultural commentator.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4C1D95",
+      "fg": "#F5F3FF",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "noah-wyle",
+    "name": "Noah Wyle",
+    "role": "Actor (ER, The Pitt)",
+    "category": "Artists",
+    "bio": "Actor best known as Dr. John Carter on ER and Dr. Robby on The Pitt; an avid reader who banned phones on The Pitt set and stocked a lending library for cast and crew.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0B3D5C",
+      "fg": "#F0F9FF",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "dakota-johnson",
+    "name": "Dakota Johnson",
+    "role": "Actress",
+    "category": "Artists",
+    "bio": "Actress (Fifty Shades, Materialists) who runs the TeaTime Book Club, picking literary fiction monthly for readers on Instagram.",
+    "listUrl": "https://tertulia.com/voices/dakota-johnson-books",
+    "color": {
+      "bg": "#5C1A1B",
+      "fg": "#FFF1F2",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "jafar-panahi",
+    "name": "Jafar Panahi",
+    "role": "Iranian filmmaker",
+    "category": "Artists",
+    "bio": "Iranian filmmaker whose Palme d'Or-winning It Was Just an Accident (2025) followed years of imprisonment and a filmmaking ban.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3B0764",
+      "fg": "#FAF5FF",
+      "accent": "#FDE68A"
+    }
+  },
+  {
+    "slug": "claire-danes",
+    "name": "Claire Danes",
+    "role": "Actress (Homeland)",
+    "category": "Artists",
+    "bio": "Actress known for My So-Called Life and Homeland; a serious reader whose O Magazine list named six works that shaped her life and craft.",
+    "listUrl": null,
+    "color": {
+      "bg": "#064E3B",
+      "fg": "#ECFDF5",
+      "accent": "#FCD34D"
+    }
+  },
+  {
+    "slug": "benicio-del-toro",
+    "name": "Benicio Del Toro",
+    "role": "Actor",
+    "category": "Artists",
+    "bio": "Oscar-winning Puerto Rican actor (Traffic, Sicario, Che), known for years-long, research-heavy preparation for his roles.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7F1D1D",
+      "fg": "#FFF7ED",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "jonathan-groff",
+    "name": "Jonathan Groff",
+    "role": "Actor (Hamilton, Mindhunter)",
+    "category": "Artists",
+    "bio": "Actor and singer (King George III in Hamilton, Mindhunter); spent his nine-minutes-a-night Hamilton downtime reading through his whole list.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1E3A8A",
+      "fg": "#EFF6FF",
+      "accent": "#FDE047"
+    }
+  },
+  {
+    "slug": "ranbir-kapoor",
+    "name": "Ranbir Kapoor",
+    "role": "Bollywood actor",
+    "category": "Artists",
+    "bio": "Bollywood actor and avid reader of biographies and autobiographies; he says reading is how he connects with reality, since scripts are fiction anyway.",
+    "listUrl": null,
+    "color": {
+      "bg": "#581C87",
+      "fg": "#FAF5FF",
+      "accent": "#FDE68A"
+    }
+  },
+  {
+    "bio": "Novelist and Emory professor whose Oprah's Book Club pick An American Marriage won the Women's Prize. She calls herself a book matchmaker and recommends Song of Solomon to every student.",
+    "category": "Authors",
+    "color": {
+      "accent": "#E9A13B",
+      "bg": "#3B1F2B",
+      "fg": "#F5E6D0"
+    },
+    "listUrl": null,
+    "name": "Tayari Jones",
+    "role": "Novelist, author of An American Marriage",
+    "slug": "tayari-jones"
+  },
+  {
+    "bio": "Vermont folk-pop singer-songwriter behind Stick Season. He credits John Steinbeck's sense of place in East of Eden as the model for how he world-builds Vermont in his songs.",
+    "category": "Artists",
+    "color": {
+      "accent": "#D4A017",
+      "bg": "#0F4C3A",
+      "fg": "#E9F5EC"
+    },
+    "listUrl": null,
+    "name": "Noah Kahan",
+    "role": "Folk-pop singer-songwriter",
+    "slug": "noah-kahan"
+  },
+  {
+    "bio": "Nine-time Grammy-winning musician, producer and drummer, one half of Silk Sonic, and now a published fiction author: his story collection Peeps on Sunset arrives February 2027.",
+    "category": "Artists",
+    "color": {
+      "accent": "#FFB100",
+      "bg": "#4A1025",
+      "fg": "#FFE9C9"
+    },
+    "listUrl": null,
+    "name": "Anderson .Paak",
+    "role": "Musician, producer, drummer",
+    "slug": "anderson-paak"
+  },
+  {
+    "bio": "Emmy-nominated actress (Kim Wexler on Better Call Saul) now starring as romance novelist Carol Sturka in Vince Gilligan's Pluribus. She builds characters through what they read.",
+    "category": "Artists",
+    "color": {
+      "accent": "#7FD1C0",
+      "bg": "#123A5C",
+      "fg": "#EAF2FB"
+    },
+    "listUrl": null,
+    "name": "Rhea Seehorn",
+    "role": "Actress (Better Call Saul, Pluribus)",
+    "slug": "rhea-seehorn"
+  },
+  {
+    "bio": "Grammy-winning R&B singer and actress who plays Hilary Banks on Bel-Air; her debut album Why Not More? arrived in 2025.",
+    "category": "Artists",
+    "color": {
+      "accent": "#FF7AA2",
+      "bg": "#5C1233",
+      "fg": "#FFE4EC"
+    },
+    "listUrl": null,
+    "name": "Coco Jones",
+    "role": "R&B singer, actress (Bel-Air)",
+    "slug": "coco-jones"
+  },
+  {
+    "bio": "Physician-turned-bestselling psychological thriller novelist. The Housemaid (2022) became a global BookTok phenomenon and a 2025 film starring Sydney Sweeney.",
+    "category": "Authors",
+    "color": {
+      "accent": "#C1121F",
+      "bg": "#141210",
+      "fg": "#F0E9DE"
+    },
+    "listUrl": null,
+    "name": "Freida McFadden",
+    "role": "Bestselling thriller novelist (The Housemaid)",
+    "slug": "freida-mcfadden"
+  },
+  {
+    "bio": "Brazilian actor (Pablo Escobar in Narcos, Civil War) and director of Marighella, Oscar-nominated for best actor for The Secret Agent.",
+    "category": "Artists",
+    "color": {
+      "accent": "#F2A104",
+      "bg": "#0D2818",
+      "fg": "#E8F5E9"
+    },
+    "listUrl": null,
+    "name": "Wagner Moura",
+    "role": "Brazilian actor (Narcos, The Secret Agent)",
+    "slug": "wagner-moura"
+  },
+  {
+    "bio": "Oscar-nominated actress (Almost Famous) and Fabletics co-founder who describes herself as a late-blooming reader, won over by John Williams's Stoner.",
+    "category": "Artists",
+    "color": {
+      "accent": "#E8A87C",
+      "bg": "#5B2333",
+      "fg": "#FFF0E8"
+    },
+    "listUrl": null,
+    "name": "Kate Hudson",
+    "role": "Actress (Almost Famous, Running Point)",
+    "slug": "kate-hudson"
+  },
+  {
+    "bio": "American figure skater and 2026 Olympic champion, the first U.S. women's gold in 24 years, after walking away at 16 and returning on her own terms. She winds down from competition with novels.",
+    "category": "Artists",
+    "color": {
+      "accent": "#F5C518",
+      "bg": "#10233B",
+      "fg": "#E8F1FA"
+    },
+    "listUrl": null,
+    "name": "Alysa Liu",
+    "role": "Olympic champion figure skater",
+    "slug": "alysa-liu"
+  },
+  {
+    "bio": "Actress and singer (Lizzie McGuire) who also writes YA novels, including the Elixir trilogy and the My Little Brave Girl picture book.",
+    "category": "Artists",
+    "color": {
+      "accent": "#E8B04B",
+      "bg": "#40260F",
+      "fg": "#FFF3E0"
+    },
+    "listUrl": null,
+    "name": "Hilary Duff",
+    "role": "Actress, singer, YA author",
+    "slug": "hilary-duff"
+  },
+  {
+    "slug": "alan-cumming",
+    "name": "Alan Cumming",
+    "role": "Actor and writer",
+    "category": "Artists",
+    "bio": "Tony-winning Scottish actor (Cabaret, The Good Wife) and bestselling memoirist (Not My Father's Son); shared his 10 favorite books with the bookstore One Grand.",
+    "listUrl": "https://onegrandbooks.com/shop/curators/actors/alan-cumming/",
+    "color": {
+      "bg": "#4A1D6B",
+      "fg": "#F3E8FF",
+      "accent": "#FFB627"
+    }
+  },
+  {
+    "slug": "sterling-k-brown",
+    "name": "Sterling K. Brown",
+    "role": "Actor",
+    "category": "Artists",
+    "bio": "Three-time Emmy winner (This Is Us, The People v. O.J. Simpson); became a fan of Percival Everett's novels while filming American Fiction.",
+    "listUrl": null,
+    "color": {
+      "bg": "#123B5C",
+      "fg": "#E8F1F8",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "ethan-hawke",
+    "name": "Ethan Hawke",
+    "role": "Actor and writer",
+    "category": "Artists",
+    "bio": "Four-time Oscar-nominated actor and novelist (Rules for a Knight, Indeh); named four favorites on Bustle's One Nightstand in Sept 2026 and six on a One Grand list.",
+    "listUrl": null,
+    "color": {
+      "bg": "#5C1A1B",
+      "fg": "#FBE9E7",
+      "accent": "#FFC53D"
+    }
+  },
+  {
+    "slug": "chloe-kim",
+    "name": "Chloe Kim",
+    "role": "Olympic snowboarder",
+    "category": "Artists",
+    "bio": "Two-time Olympic gold medalist in snowboard halfpipe; told Fashionista in June 2026 she loves romantasy and has read all of Fourth Wing.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E4D64",
+      "fg": "#E6F7FB",
+      "accent": "#FF8C42"
+    }
+  },
+  {
+    "slug": "shirin-ebadi",
+    "name": "Shirin Ebadi",
+    "role": "Nobel Peace laureate and human rights lawyer",
+    "category": "Leaders",
+    "bio": "Iranian lawyer and 2003 Nobel Peace Prize laureate; wrote the foreword to Narges Mohammadi's White Torture.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3D2C02",
+      "fg": "#FDF3E0",
+      "accent": "#E8A838"
+    }
+  },
+  {
+    "slug": "walter-hood",
+    "name": "Walter Hood",
+    "role": "Landscape architect",
+    "category": "Artists",
+    "bio": "MacArthur-winning landscape architect and UC Berkeley professor; his interviews cite James Baldwin and W.E.B. Du Bois as touchstones.",
+    "listUrl": null,
+    "color": {
+      "bg": "#2E4B1F",
+      "fg": "#EAF3E2",
+      "accent": "#D9A441"
+    }
+  },
+  {
+    "slug": "victoria-beckham",
+    "name": "Victoria Beckham",
+    "role": "Fashion designer",
+    "category": "Artists",
+    "bio": "Former Spice Girl turned fashion designer; told Instagram followers in 2022 she had finished two Matt Haig novels and asked what to read next.",
+    "listUrl": null,
+    "color": {
+      "bg": "#571845",
+      "fg": "#FCE4F1",
+      "accent": "#FF6B9D"
+    }
+  },
+  {
+    "slug": "rauw-alejandro",
+    "name": "Rauw Alejandro",
+    "role": "Reggaeton singer",
+    "category": "Artists",
+    "bio": "Puerto Rican reggaeton star (Saturno, Cosa Nuestra). No verifiable public book recommendations found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#083B3B",
+      "fg": "#E0F5F2",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "kica-matos",
+    "name": "Kica Matos",
+    "role": "Immigration advocate",
+    "category": "Leaders",
+    "bio": "President of the National Immigration Law Center, named to the TIME100 in 2026. No verifiable public book recommendations found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#5A1F1F",
+      "fg": "#FBEFE9",
+      "accent": "#FFC94D"
+    }
+  },
+  {
+    "slug": "zoe-saldana",
+    "name": "Zoe Saldaña",
+    "role": "Actress",
+    "category": "Artists",
+    "bio": "Oscar-winning actress (Avatar, Emilia Perez); Junot Diaz sent her the Oscar Wao manuscript before publication and she and her family wept reading it.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1F3A5F",
+      "fg": "#E9F2FD",
+      "accent": "#7DD3FC"
+    }
+  },
+  {
+    "slug": "ben-stiller",
+    "name": "Ben Stiller",
+    "role": "Actor, director and producer",
+    "category": "Artists",
+    "bio": "Ben Stiller is an actor, director and producer whose films have grossed over $2.6 billion; he has named formative books in Tim Ferriss's Tribe of Mentors and publicly praised Sidney Lumet's Making Movies and Rachel Maddow's Bag Man.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A1D6B",
+      "fg": "#F6F0FF",
+      "accent": "#FFB703"
+    }
+  },
+  {
+    "slug": "aliko-dangote",
+    "name": "Aliko Dangote",
+    "role": "Founder of Dangote Group",
+    "category": "Founders",
+    "bio": "Aliko Dangote is the Nigerian industrialist who built Dangote Group, Africa's largest industrial conglomerate spanning cement, sugar, flour and a 650,000-barrel refinery; no publicly documented book recommendations were found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#14532D",
+      "fg": "#F0FDF4",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "scottie-scheffler",
+    "name": "Scottie Scheffler",
+    "role": "Professional golfer, world No. 1",
+    "category": "Artists",
+    "bio": "Scottie Scheffler is a professional golfer and the world's top-ranked player, a multiple major champion; he says he is not much of a reader beyond the Bible and a daily devotional.",
+    "listUrl": null,
+    "color": {
+      "bg": "#123524",
+      "fg": "#EAF7EE",
+      "accent": "#D4A017"
+    }
+  },
+  {
+    "slug": "anok-yai",
+    "name": "Anok Yai",
+    "role": "Model",
+    "category": "Artists",
+    "bio": "Anok Yai is a Sudanese-American supermodel, the second Black model to open a Prada show; she has named favorite books in a Vogue diary feature and was photographed reading The Count of Monte Cristo.",
+    "listUrl": null,
+    "color": {
+      "bg": "#831843",
+      "fg": "#FDF2F8",
+      "accent": "#FCD34D"
+    }
+  },
+  {
+    "slug": "ralph-lauren",
+    "name": "Ralph Lauren",
+    "role": "Fashion designer, founder of Ralph Lauren Corporation",
+    "category": "Founders",
+    "bio": "Ralph Lauren is the American fashion designer who built Ralph Lauren Corporation into a global lifestyle brand; no publicly documented book recommendations were found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7F1D1D",
+      "fg": "#FEF2F2",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "lynsey-addario",
+    "name": "Lynsey Addario",
+    "role": "Photojournalist and author",
+    "category": "Authors",
+    "bio": "Lynsey Addario is a Pulitzer Prize and MacArthur-winning photojournalist and author of the memoir It's What I Do; no books she has publicly recommended were found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1E3A5F",
+      "fg": "#EFF6FF",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "susan-dell",
+    "name": "Susan Dell",
+    "role": "Philanthropist, co-founder of Michael & Susan Dell Foundation",
+    "category": "Leaders",
+    "bio": "Susan Dell is the philanthropist who co-founded and chairs the Michael & Susan Dell Foundation and narrated its Be Well books; no books she has publicly recommended were found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#134E4A",
+      "fg": "#ECFDF5",
+      "accent": "#FCD34D"
+    }
+  },
+  {
+    "slug": "michael-dell",
+    "name": "Michael Dell",
+    "role": "Founder and CEO of Dell Technologies",
+    "category": "Founders",
+    "bio": "Michael Dell founded Dell Technologies and remains its chairman and CEO; he named his must-read business books in an Inc. article, from Business Adventures to Physics of the Future.",
+    "listUrl": "https://www.inc.com/michael-dell/must-read-business-books-right-now.html",
+    "color": {
+      "bg": "#1E1B4B",
+      "fg": "#EEF2FF",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "sundar-pichai",
+    "name": "Sundar Pichai",
+    "role": "CEO of Alphabet and Google",
+    "category": "Founders",
+    "bio": "Sundar Pichai is the CEO of Alphabet and Google, who led Chrome and Android before taking the top job; he publicly endorsed Trillion Dollar Coach and has been listed recommending Born a Crime and The Lean Startup.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0C4A6E",
+      "fg": "#F0F9FF",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "david-ellison",
+    "name": "David Ellison",
+    "role": "CEO of Paramount, founder of Skydance Media",
+    "category": "Founders",
+    "bio": "David Ellison founded Skydance Media and became CEO of Paramount after its 2025 merger; he has discussed his sci-fi reading in interviews but named no specific book titles publicly.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3F1D0B",
+      "fg": "#FFF7ED",
+      "accent": "#FDBA74"
+    }
+  },
+  {
+    "slug": "precious-matsoso",
+    "name": "Precious Matsoso",
+    "role": "South African health official; WHO pandemic-treaty co-chair",
+    "category": "Leaders",
+    "bio": "South African health official who co-chaired the WHO negotiations for the global pandemic agreement; former Director-General of South Africa's National Department of Health.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3B2E7A",
+      "fg": "#F5F0E6",
+      "accent": "#E8B44A"
+    }
+  },
+  {
+    "slug": "anne-claire-amprou",
+    "name": "Anne-Claire Amprou",
+    "role": "France's ambassador for global health",
+    "category": "Leaders",
+    "bio": "France's ambassador for global health since 2022; led the pandemic-treaty negotiations and now chairs Unitaid's board.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7A1E2B",
+      "fg": "#F7EFE3",
+      "accent": "#F2B134"
+    }
+  },
+  {
+    "slug": "lip-bu-tan",
+    "name": "Lip-Bu Tan",
+    "role": "CEO of Intel; founder of Walden International",
+    "category": "Founders",
+    "bio": "CEO of Intel and founder of Walden International, the venture firm he named for Thoreau's Walden; previously led Cadence's 13-year turnaround.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E4C5E",
+      "fg": "#F2EFE6",
+      "accent": "#E8A93D"
+    }
+  },
+  {
+    "slug": "nikki-glaser",
+    "name": "Nikki Glaser",
+    "role": "Comedian and TV host",
+    "category": "Artists",
+    "bio": "Comedian and TV host (The Nikki Glaser Podcast, Golden Globes host); her reading runs to memoirs, self-help, and relationship psychology.",
+    "listUrl": null,
+    "color": {
+      "bg": "#8C1D40",
+      "fg": "#F9F1E8",
+      "accent": "#F5C044"
+    }
+  },
+  {
+    "slug": "hilary-knight",
+    "name": "Hilary Knight",
+    "role": "Captain, U.S. women's national ice hockey team",
+    "category": "Artists",
+    "bio": "Captain of the U.S. women's national hockey team and the all-time leading scorer in Women's World Championship history.",
+    "listUrl": null,
+    "color": {
+      "bg": "#8A1538",
+      "fg": "#F6F1E7",
+      "accent": "#F0B429"
+    }
+  },
+  {
+    "slug": "vikas-khanna",
+    "name": "Vikas Khanna",
+    "role": "Chef, author, and filmmaker",
+    "category": "Artists",
+    "bio": "Michelin-starred chef, author of more than 40 books, and filmmaker (The Last Color); born in Amritsar, based in New York.",
+    "listUrl": null,
+    "color": {
+      "bg": "#9A3412",
+      "fg": "#FAF3E8",
+      "accent": "#F2C94C"
+    }
+  },
+  {
+    "slug": "lando-norris",
+    "name": "Lando Norris",
+    "role": "Formula 1 driver, McLaren",
+    "category": "Artists",
+    "bio": "Formula 1 driver for McLaren; no public book recommendations found.",
+    "listUrl": null,
+    "color": {
+      "bg": "#854D0E",
+      "fg": "#FBF6EA",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "mashama-bailey",
+    "name": "Mashama Bailey",
+    "role": "Chef and co-owner of The Grey",
+    "category": "Artists",
+    "bio": "Executive chef and co-owner of The Grey in Savannah; 2022 James Beard Outstanding Chef; co-author of Black, White, and The Grey.",
+    "listUrl": null,
+    "color": {
+      "bg": "#831843",
+      "fg": "#F8F0E4",
+      "accent": "#E9B44C"
+    }
+  },
+  {
+    "slug": "matthieu-blazy",
+    "name": "Matthieu Blazy",
+    "role": "Creative director of Chanel",
+    "category": "Artists",
+    "bio": "Creative director of Chanel from 2025, formerly of Bottega Veneta; a literary designer who has called Kerouac's On the Road one of his favorite books.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1F2937",
+      "fg": "#EFE9DC",
+      "accent": "#D9A441"
+    }
+  },
+  {
+    "slug": "dario-amodei",
+    "name": "Dario Amodei",
+    "role": "CEO and co-founder of Anthropic",
+    "category": "Founders",
+    "bio": "CEO and co-founder of Anthropic; his documented public record is three book recommendations from his 2024 Ezra Klein interview plus The Player of Games, discussed in his essay Machines of Loving Grace.",
+    "listUrl": null,
+    "color": {
+      "bg": "#92400E",
+      "fg": "#F7F1E3",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "daniela-amodei",
+    "name": "Daniela Amodei",
+    "role": "President and co-founder of Anthropic",
+    "category": "Founders",
+    "bio": "President and co-founder of Anthropic, the AI safety company behind Claude. A former English literature major who reads widely in science fiction and history.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A1D2F",
+      "fg": "#F7EDE4",
+      "accent": "#E8A33D"
+    }
+  },
+  {
+    "slug": "noah-lyles",
+    "name": "Noah Lyles",
+    "role": "Olympic sprinter, 100m champion",
+    "category": "Artists",
+    "bio": "American sprinter who won Olympic gold in the 100m at Paris 2024. He has spoken openly about depression and is a devoted manga reader.",
+    "listUrl": null,
+    "color": {
+      "bg": "#5C1A1B",
+      "fg": "#F6EDE3",
+      "accent": "#F2B234"
+    }
+  },
+  {
+    "slug": "yiyun-li",
+    "name": "Yiyun Li",
+    "role": "Novelist and MacArthur fellow",
+    "category": "Authors",
+    "bio": "Chinese-American novelist, MacArthur fellow, and Princeton creative-writing professor. She reads War and Peace and Moby-Dick every year, six months each.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E3B43",
+      "fg": "#EAF3EE",
+      "accent": "#D9A441"
+    }
+  },
+  {
+    "slug": "tony-tyson",
+    "name": "Tony Tyson",
+    "role": "Founding director of Rubin Observatory",
+    "category": "Scientists",
+    "bio": "Astronomer and chief scientist of the Vera C. Rubin Observatory, which he first proposed 30 years ago. He pioneered weak gravitational lensing at Bell Labs.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1F2A5A",
+      "fg": "#E8ECF7",
+      "accent": "#F0A832"
+    }
+  },
+  {
+    "slug": "cao-fei",
+    "name": "Cao Fei",
+    "role": "Chinese multimedia artist",
+    "category": "Artists",
+    "bio": "Guangzhou-born multimedia artist whose films and installations speculate on China's urban and technological futures. She collaborates closely with Chinese science-fiction writers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#40215A",
+      "fg": "#F3EAF7",
+      "accent": "#E8793D"
+    }
+  },
+  {
+    "slug": "john-furner",
+    "name": "John Furner",
+    "role": "CEO of Walmart",
+    "category": "Founders",
+    "bio": "President and CEO of Walmart, the world's largest retailer. He started at Walmart in 1993 as a part-time hourly garden-center associate.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1C4D8F",
+      "fg": "#EDF2FA",
+      "accent": "#F5B841"
+    }
+  },
+  {
+    "slug": "jeremy-allaire",
+    "name": "Jeremy Allaire",
+    "role": "CEO and co-founder of Circle",
+    "category": "Founders",
+    "bio": "Co-founder and CEO of Circle, issuer of the USDC stablecoin. He reads Camus, Conrad, and Kapuscinski rather than business books.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0F4C4C",
+      "fg": "#E9F5F2",
+      "accent": "#E8B13D"
+    }
+  },
+  {
+    "slug": "mari-luz-canaquiri-murayari",
+    "name": "Mari Luz Canaquiri Murayari",
+    "role": "Indigenous environmental leader, Peru",
+    "category": "Leaders",
+    "bio": "Kukama Indigenous leader from Loreto, Peru, and founder of the Huaynakana Kamatahuara Kana women's federation. She won the 2025 Goldman Environmental Prize for defending the Marañón River.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A5D16",
+      "fg": "#F4F1E4",
+      "accent": "#E07B39"
+    }
+  },
+  {
+    "slug": "luciano-moreira",
+    "name": "Luciano Moreira",
+    "role": "CEO of Wolbito do Brasil",
+    "category": "Scientists",
+    "bio": "Brazilian public-health researcher and CEO of Wolbito do Brasil, the world's largest biofactory breeding Wolbachia mosquitoes to block dengue transmission.",
+    "listUrl": null,
+    "color": {
+      "bg": "#6B3410",
+      "fg": "#F7EFE3",
+      "accent": "#3FA34D"
+    }
+  },
+  {
+    "slug": "neal-mohan",
+    "name": "Neal Mohan",
+    "role": "CEO of YouTube",
+    "category": "Founders",
+    "bio": "CEO of YouTube since 2023, after serving as its chief product officer. The Stanford engineer steers the platform two billion people watch daily.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7F1D1D",
+      "fg": "#F9EFEA",
+      "accent": "#F2C230"
+    }
+  },
+  {
+    "slug": "sabrina-walter",
+    "name": "Sabrina Walter",
+    "role": "Founder of Women for Change",
+    "category": "Leaders",
+    "bio": "Founder of Women for Change, the South African movement whose decade of protests and 1,500 victim stories helped push gender-based violence and femicide to be declared a national disaster in 2025.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7A1E3C",
+      "fg": "#FBF3E4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "dolores-huerta",
+    "name": "Dolores Huerta",
+    "role": "Labor leader and civil rights activist",
+    "category": "Leaders",
+    "bio": "Co-founder of the United Farm Workers and originator of the slogan 'Si se puede'; at 96, she is the oldest person on the TIME 100 2026 list and still organizing.",
+    "listUrl": null,
+    "color": {
+      "bg": "#2E6B4F",
+      "fg": "#F4F1E6",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "reid-wiseman",
+    "name": "Reid Wiseman",
+    "role": "NASA astronaut, Artemis II commander",
+    "category": "Scientists",
+    "bio": "Commander of NASA's Artemis II, the first crewed lunar flyby in over 50 years; a self-described learner who reaches for books by experts when facing hard problems.",
+    "listUrl": null,
+    "color": {
+      "bg": "#103B73",
+      "fg": "#EDF2F8",
+      "accent": "#F2C14E"
+    }
+  },
+  {
+    "slug": "josh-damaro",
+    "name": "Josh D'Amaro",
+    "role": "CEO of Disney Experiences",
+    "category": "Founders",
+    "bio": "Chairman and CEO of The Walt Disney Company since March 2026 after 28 years in the parks and experiences business; TIME 100 Pioneers 2026 honoree.",
+    "listUrl": null,
+    "color": {
+      "bg": "#17352B",
+      "fg": "#F2EFE4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "mamadou-amadou-ly",
+    "name": "Mamadou Amadou Ly",
+    "role": "Executive Director of ARED",
+    "category": "Leaders",
+    "bio": "Executive Director of ARED, the Senegalese nonprofit pioneering bilingual schooling in Wolof, Pulaar and French; first African to win the Yidan Prize (2025).",
+    "listUrl": null,
+    "color": {
+      "bg": "#5C3D00",
+      "fg": "#FAF3E4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "nancy-silverton",
+    "name": "Nancy Silverton",
+    "role": "Chef, baker, restaurateur",
+    "category": "Artists",
+    "bio": "Chef, baker and restaurateur behind La Brea Bakery and Pizzeria Mozza; a James Beard Outstanding Chef winner whose cookbooks became working references for professional bakers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#6E4411",
+      "fg": "#FAF3E4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "mrbeast",
+    "name": "MrBeast",
+    "role": "YouTuber and entrepreneur",
+    "category": "Artists",
+    "bio": "Jimmy Donaldson, the most-subscribed individual creator on YouTube and founder of Feastables; his public reading list runs to business biographies and company histories.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E5E6F",
+      "fg": "#F5F1E4",
+      "accent": "#F2C14E"
+    }
+  },
+  {
+    "slug": "mariangela-hungria",
+    "name": "Mariangela Hungria",
+    "role": "Agricultural microbiologist",
+    "category": "Scientists",
+    "bio": "Embrapa soil microbiologist whose biological-input research replaced chemical fertilizers across Brazilian agriculture; first Brazilian to win the World Food Prize (2025).",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A5D12",
+      "fg": "#FAF4E4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "c-c-wei",
+    "name": "C.C. Wei",
+    "role": "Chairman and CEO of TSMC",
+    "category": "Founders",
+    "bio": "Chairman and CEO of TSMC, the foundry manufacturing the world's leading AI chips; profiled on the TIME 100 by NVIDIA's Jensen Huang.",
+    "listUrl": null,
+    "color": {
+      "bg": "#452A85",
+      "fg": "#F1EDFA",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "lauren-hersh",
+    "name": "Lauren Hersh",
+    "role": "Anti-trafficking lawyer and advocate",
+    "category": "Leaders",
+    "bio": "Lawyer and co-founder/CEO of World Without Exploitation, the national coalition against human trafficking; she helped lead the survivor-driven push for the Epstein Files Transparency Act.",
+    "listUrl": null,
+    "color": {
+      "bg": "#6E2233",
+      "fg": "#FAF3E4",
+      "accent": "#E8B84B"
+    }
+  },
+  {
+    "slug": "rachel-foster",
+    "name": "Rachel Foster",
+    "role": "Co-founder and President of World Without Exploitation",
+    "category": "Leaders",
+    "bio": "Co-founder and president of World Without Exploitation, the national anti-trafficking coalition; a New York attorney who has spent 35 years advocating for survivors of the sex trade. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#5B1A2E",
+      "fg": "#F7EDE4",
+      "accent": "#E8A93D"
+    }
+  },
+  {
+    "slug": "shannon-minter",
+    "name": "Shannon Minter",
+    "role": "Legal Director, National Center for LGBTQ Rights",
+    "category": "Leaders",
+    "bio": "Legal director of the National Center for LGBTQ Rights and lead counsel in the California case that established marriage equality there. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E4D64",
+      "fg": "#F2F7F5",
+      "accent": "#F2B134"
+    }
+  },
+  {
+    "slug": "zabib-musa-loro",
+    "name": "Zabib Musa Loro",
+    "role": "Founder and Executive Director, Women for Justice and Equality",
+    "category": "Leaders",
+    "bio": "South Sudanese women's rights activist and founder of Women for Justice and Equality; a 2025 International Women of Courage honoree. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#5F3A0B",
+      "fg": "#FAF3E6",
+      "accent": "#E2711D"
+    }
+  },
+  {
+    "slug": "sarah-friar",
+    "name": "Sarah Friar",
+    "role": "CFO of OpenAI",
+    "category": "Founders",
+    "bio": "Chief financial officer of OpenAI and former CEO of Nextdoor; previously CFO of Square, which she led through its IPO. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0F5132",
+      "fg": "#F5F1E6",
+      "accent": "#E9C46A"
+    }
+  },
+  {
+    "slug": "kiran-musunuru",
+    "name": "Kiran Musunuru",
+    "role": "Cardiologist and gene-editing researcher",
+    "category": "Scientists",
+    "bio": "Physician-scientist at the University of Pennsylvania pioneering in-vivo CRISPR therapies, including the first personalized gene-editing treatment for an infant. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#3D1D5C",
+      "fg": "#F3EEFF",
+      "accent": "#FFB703"
+    }
+  },
+  {
+    "slug": "rebecca-ahrens-nicklas",
+    "name": "Rebecca Ahrens-Nicklas",
+    "role": "Physician-scientist, Children's Hospital of Philadelphia",
+    "category": "Scientists",
+    "bio": "Physician-scientist at Children's Hospital of Philadelphia who co-developed the first personalized CRISPR therapy for a child with a rare metabolic disorder. Named to the 2026 TIME 100 Pioneers.",
+    "listUrl": null,
+    "color": {
+      "bg": "#8C1D40",
+      "fg": "#FDF3F0",
+      "accent": "#FFC53D"
+    }
+  },
+  {
+    "slug": "pope-leo-xiv",
+    "name": "Pope Leo XIV",
+    "role": "Head of the Catholic Church",
+    "category": "Leaders",
+    "bio": "Head of the Catholic Church and the first American-born pope; an Augustinian friar who spent two decades as a missionary in Peru. Named to the 2026 TIME 100 Leaders.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A2C0A",
+      "fg": "#FAF3E3",
+      "accent": "#D9A441"
+    }
+  },
+  {
+    "slug": "claudia-sheinbaum",
+    "name": "Claudia Sheinbaum",
+    "role": "President of Mexico",
+    "category": "Leaders",
+    "bio": "President of Mexico and the country's first woman president; a climate scientist and former mayor of Mexico City. Named to the 2026 TIME 100 Leaders.",
+    "listUrl": null,
+    "color": {
+      "bg": "#00563B",
+      "fg": "#F4F1E8",
+      "accent": "#E8A93D"
+    }
+  },
+  {
+    "slug": "marco-rubio",
+    "name": "Marco Rubio",
+    "role": "US Secretary of State",
+    "category": "Leaders",
+    "bio": "US Secretary of State and former US senator from Florida; the first Latino to hold the office. Named to the 2026 TIME 100 Leaders.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7B1E1E",
+      "fg": "#F9F1E8",
+      "accent": "#F2B134"
+    }
+  },
+  {
+    "slug": "donald-trump",
+    "name": "Donald Trump",
+    "role": "President of the United States",
+    "category": "Leaders",
+    "bio": "President of the United States, serving his second term; real estate developer and author of The Art of the Deal. Named to the 2026 TIME 100 Leaders.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1F2A5C",
+      "fg": "#F5F2E9",
+      "accent": "#D4A017"
+    }
+  },
+  {
+    "bio": "White House chief of staff under President Trump, the first woman to hold the role; the strategist behind his Florida victories and 2024 campaign.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#D9A441",
+      "bg": "#3B1F2B",
+      "fg": "#F5EFE6"
+    },
+    "listUrl": null,
+    "name": "Susie Wiles",
+    "role": "White House Chief of Staff",
+    "slug": "susie-wiles"
+  },
+  {
+    "bio": "Leader of the Bangladesh Nationalist Party who became prime minister in 2026 after 18 years in exile in London.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E0A030",
+      "bg": "#0E4D3C",
+      "fg": "#F2F0E4"
+    },
+    "listUrl": null,
+    "name": "Tarique Rahman",
+    "role": "Prime Minister of Bangladesh",
+    "slug": "tarique-rahman"
+  },
+  {
+    "bio": "U.S. senator from Arizona and retired NASA astronaut who flew four space shuttle missions; co-author with Gabby Giffords of books on recovery and gun violence.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#C77E2E",
+      "bg": "#141B33",
+      "fg": "#EDEAE0"
+    },
+    "listUrl": null,
+    "name": "Mark Kelly",
+    "role": "U.S. Senator from Arizona",
+    "slug": "mark-kelly"
+  },
+  {
+    "bio": "Constitutional scholar, former dean of Yale Law School, and president of the Ford Foundation since late 2025; author of The Democracy Index.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#D9A441",
+      "bg": "#2E1A47",
+      "fg": "#F0EDE6"
+    },
+    "listUrl": null,
+    "name": "Heather Gerken",
+    "role": "President of the Ford Foundation",
+    "slug": "heather-gerken"
+  },
+  {
+    "bio": "U.S. Air Force general serving as Chairman of the Joint Chiefs of Staff since April 2025; former F-16 pilot and CIA associate director for military affairs.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#C98F2D",
+      "bg": "#3A2A12",
+      "fg": "#F3EDE2"
+    },
+    "listUrl": null,
+    "name": "Dan Caine",
+    "role": "Chairman of the Joint Chiefs of Staff",
+    "slug": "dan-caine"
+  },
+  {
+    "bio": "Finnish politician serving as Executive Vice-President of the European Commission for tech sovereignty; former MEP and Finnish education minister.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E0A458",
+      "bg": "#123A5C",
+      "fg": "#EEF2F5"
+    },
+    "listUrl": null,
+    "name": "Henna Virkkunen",
+    "role": "European Commission Executive Vice-President",
+    "slug": "henna-virkkunen"
+  },
+  {
+    "bio": "Argentine diplomat directing the International Atomic Energy Agency since 2019; announced his candidacy for UN secretary-general in December 2025.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#D9982B",
+      "bg": "#40210F",
+      "fg": "#F4EEE3"
+    },
+    "listUrl": null,
+    "name": "Rafael Mariano Grossi",
+    "role": "Director General of the IAEA",
+    "slug": "rafael-mariano-grossi"
+  },
+  {
+    "bio": "Prime Minister of Denmark since 2019, the youngest person to hold the office; led Denmark through the pandemic and the standoff over Greenland.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E0A458",
+      "bg": "#5C1A1A",
+      "fg": "#F5ECE6"
+    },
+    "listUrl": null,
+    "name": "Mette Frederiksen",
+    "role": "Prime Minister of Denmark",
+    "slug": "mette-frederiksen"
+  },
+  {
+    "bio": "Mayor of Minneapolis since 2018, now in his third term; governed the city through the murder of George Floyd and its aftermath.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#D9A441",
+      "bg": "#2B2118",
+      "fg": "#F2ECE1"
+    },
+    "listUrl": null,
+    "name": "Jacob Frey",
+    "role": "Mayor of Minneapolis",
+    "slug": "jacob-frey"
+  },
+  {
+    "bio": "Turkish economist directing the International Energy Agency since 2015; the architect of its flagship World Energy Outlook.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E8A33D",
+      "bg": "#0F2E3D",
+      "fg": "#EDF2F0"
+    },
+    "listUrl": null,
+    "name": "Fatih Birol",
+    "role": "Executive Director of the IEA",
+    "slug": "fatih-birol"
+  },
+  {
+    "bio": "Former governor of both the Bank of Canada and the Bank of England, now Canada's prime minister; author of Value(s): Building a Better World for All.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E8B04B",
+      "bg": "#5C1A1B",
+      "fg": "#F8F3E8"
+    },
+    "listUrl": null,
+    "name": "Mark Carney",
+    "role": "Prime Minister of Canada",
+    "slug": "mark-carney"
+  },
+  {
+    "bio": "Democratic socialist and New York City's 112th mayor; won office on an affordability platform of free buses, childcare, and rent control.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#F2A541",
+      "bg": "#274690",
+      "fg": "#F5F1E6"
+    },
+    "listUrl": null,
+    "name": "Zohran Mamdani",
+    "role": "Mayor of New York City",
+    "slug": "zohran-mamdani"
+  },
+  {
+    "bio": "SpaceX's president and COO, its seventh employee; runs day-to-day operations and turned Musk's Mars ambitions into executed launches.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E8A33D",
+      "bg": "#0E3A3A",
+      "fg": "#F2EFE6"
+    },
+    "listUrl": null,
+    "name": "Gwynne Shotwell",
+    "role": "President and COO of SpaceX",
+    "slug": "gwynne-shotwell"
+  },
+  {
+    "bio": "Governor of California since 2019 and former San Francisco mayor; entrepreneur behind the PlumpJack Group and author of two books.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#F2B134",
+      "bg": "#143D59",
+      "fg": "#F7F3E8"
+    },
+    "listUrl": null,
+    "name": "Gavin Newsom",
+    "role": "Governor of California",
+    "slug": "gavin-newsom"
+  },
+  {
+    "bio": "Real estate developer and longtime Trump confidant; serves as US special envoy negotiating on Gaza and Ukraine.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E0A458",
+      "bg": "#402A12",
+      "fg": "#F7F1E3"
+    },
+    "listUrl": null,
+    "name": "Steve Witkoff",
+    "role": "US Special Envoy",
+    "slug": "steve-witkoff"
+  },
+  {
+    "bio": "General secretary of the Chinese Communist Party and president of China since 2012-2013; the architect of the Belt and Road and the most powerful Chinese leader since Mao.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E8B93D",
+      "bg": "#7A1F1F",
+      "fg": "#F7ECEC"
+    },
+    "listUrl": null,
+    "name": "Xi Jinping",
+    "role": "President of China",
+    "slug": "xi-jinping"
+  },
+  {
+    "bio": "Prime minister of Japan since October 2025, the first woman to hold the office; former economic security minister and longtime LDP conservative who models herself on Margaret Thatcher.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#D9A441",
+      "bg": "#3D2B63",
+      "fg": "#F3EEF8"
+    },
+    "listUrl": null,
+    "name": "Sanae Takaichi",
+    "role": "Prime Minister of Japan",
+    "slug": "sanae-takaichi"
+  },
+  {
+    "bio": "Prime minister of Israel, serving since 2009 after an earlier term in 1996-1999; the country's longest-serving premier, governing through the post-October 7 Gaza war.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E0A030",
+      "bg": "#1F3A5F",
+      "fg": "#EDF2F5"
+    },
+    "listUrl": null,
+    "name": "Benjamin Netanyahu",
+    "role": "Prime Minister of Israel",
+    "slug": "benjamin-netanyahu"
+  },
+  {
+    "bio": "President of Namibia since March 2025, the country's first female head of state; a former SWAPO liberation activist who joined the movement at 14 and went into exile before independence.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#E8A33D",
+      "bg": "#5C3A10",
+      "fg": "#F6EEDD"
+    },
+    "listUrl": null,
+    "name": "Netumbo Nandi-Ndaitwah",
+    "role": "President of Namibia",
+    "slug": "netumbo-nandi-ndaitwah"
+  },
+  {
+    "bio": "Mayor of Kathmandu since May 2022; structural engineer and battle-rapper who won the mayoralty as an independent and became a prime ministerial prospect after Nepal's 2026 political upheaval.",
+    "category": "Leaders",
+    "color": {
+      "accent": "#C9A227",
+      "bg": "#2B4423",
+      "fg": "#EFF4E6"
+    },
+    "listUrl": null,
+    "name": "Balendra Shah",
+    "role": "Mayor of Kathmandu",
+    "slug": "balendra-shah"
+  },
+  {
+    "slug": "david-senra",
+    "name": "David Senra",
+    "role": "Host of the Founders podcast",
+    "category": "Authors",
+    "bio": "David Senra hosts the Founders podcast, where he studies history's greatest entrepreneurs by reading their biographies, often multiple times each. He has covered more than 300 founders since 2016.",
+    "listUrl": "https://www.founderspodcast.com/",
+    "color": {
+      "bg": "#3B1F2B",
+      "fg": "#F5E6DA",
+      "accent": "#E8B44A"
+    }
+  },
+  {
+    "slug": "andrew-huberman",
+    "name": "Andrew Huberman",
+    "role": "Neuroscientist, host of the Huberman Lab podcast",
+    "category": "Scientists",
+    "bio": "Stanford neuroscience professor and host of the Huberman Lab podcast, which translates neuroscience into science-based tools for health and performance. Regularly recommends neuroscience, sleep, and behavior books across episodes.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1E3A5F",
+      "fg": "#E8F1FA",
+      "accent": "#38BDF8"
+    }
+  },
+  {
+    "slug": "bryan-johnson",
+    "name": "Bryan Johnson",
+    "role": "Entrepreneur, creator of the Blueprint longevity protocol",
+    "category": "Founders",
+    "bio": "Entrepreneur who sold Braintree to PayPal and now runs Blueprint, the public anti-aging measurement project. His reading list skews toward science, rationality, behavior, and long-term thinking.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0C2B1F",
+      "fg": "#D1FAE5",
+      "accent": "#34D399"
+    }
+  },
+  {
+    "slug": "codie-sanchez",
+    "name": "Codie Sanchez",
+    "role": "Entrepreneur and investor, founder of Contrarian Thinking",
+    "category": "Investors",
+    "bio": "Codie Sanchez is an entrepreneur and investor who founded Contrarian Thinking, a media company about buying 'boring' small businesses. A former Goldman Sachs and Vanguard finance executive, she wrote the 2024 bestseller Main Street Millionaire.",
+    "listUrl": null,
+    "color": {
+      "bg": "#4A044E",
+      "fg": "#FAF5FF",
+      "accent": "#E879F9"
+    }
+  },
+  {
+    "slug": "jason-fried",
+    "name": "Jason Fried",
+    "role": "Co-founder of 37signals, co-author of Rework",
+    "category": "Founders",
+    "bio": "Jason Fried is co-founder and CEO of 37signals (Basecamp, HEY) and co-author of Rework and Remote with David Heinemeier Hansson. A longtime bootstrapping advocate, he writes about calm, independent company-building.",
+    "listUrl": null,
+    "color": {
+      "bg": "#292524",
+      "fg": "#FAFAF9",
+      "accent": "#F97316"
+    }
+  },
+  {
+    "slug": "jeff-bezos",
+    "name": "Jeff Bezos",
+    "role": "Founder of Amazon",
+    "category": "Founders",
+    "bio": "Jeff Bezos founded Amazon in 1994 and led it as CEO until 2021. His annual shareholder letters, which frequently cite books, are studied as management texts in their own right.",
+    "listUrl": null,
+    "color": {
+      "bg": "#131921",
+      "fg": "#FFFFFF",
+      "accent": "#FF9900"
+    }
+  },
+  {
+    "slug": "lex-fridman",
+    "name": "Lex Fridman",
+    "role": "AI researcher, host of the Lex Fridman Podcast",
+    "category": "Scientists",
+    "bio": "Lex Fridman is an MIT research scientist working on human-centered artificial intelligence and autonomous vehicles. He hosts the Lex Fridman Podcast, known for multi-hour conversations with scientists, philosophers, and technologists.",
+    "listUrl": null,
+    "color": {
+      "bg": "#1A1A2E",
+      "fg": "#EAEAEA",
+      "accent": "#00ADB5"
+    }
+  },
+  {
+    "slug": "mark-zuckerberg",
+    "name": "Mark Zuckerberg",
+    "role": "Co-founder and CEO of Meta",
+    "category": "Founders",
+    "bio": "Mark Zuckerberg co-founded Facebook in his Harvard dorm room and runs Meta as chairman and CEO. In 2015 he ran the public A Year of Books club, reading and discussing 23 books with millions of followers.",
+    "listUrl": "https://www.weforum.org/stories/business/23-books-mark-zuckerberg-thinks-you-should-read/",
+    "color": {
+      "bg": "#1D4ED8",
+      "fg": "#EFF6FF",
+      "accent": "#60A5FA"
+    }
+  },
+  {
+    "slug": "mohnish-pabrai",
+    "name": "Mohnish Pabrai",
+    "role": "Value investor, founder of Pabrai Investment Funds",
+    "category": "Investors",
+    "bio": "Mohnish Pabrai is a value investor and founder of Pabrai Investment Funds, known for openly cloning Warren Buffett's approach. His book The Dhandho Investor (2007) popularized low-risk, high-uncertainty value investing, and his lectures name-drop books constantly.",
+    "listUrl": null,
+    "color": {
+      "bg": "#14532D",
+      "fg": "#F0FDF4",
+      "accent": "#FACC15"
+    }
+  },
+  {
+    "slug": "peter-attia",
+    "name": "Peter Attia",
+    "role": "Physician, author of Outlive, host of The Drive podcast",
+    "category": "Scientists",
+    "bio": "Longevity physician, former surgeon, and founder of Early Medical; author of Outlive and host of The Drive podcast. His reading lists span medicine, biography, decision science, and mental models.",
+    "listUrl": null,
+    "color": {
+      "bg": "#7F1D1D",
+      "fg": "#FEF2F2",
+      "accent": "#FBBF24"
+    }
+  },
+  {
+    "slug": "ray-dalio",
+    "name": "Ray Dalio",
+    "role": "Founder of Bridgewater Associates, author of Principles",
+    "category": "Investors",
+    "bio": "Ray Dalio founded Bridgewater Associates in 1975 and built it into the world's largest hedge fund. He wrote Principles: Life and Work, codifying the radical transparency culture he ran the firm on.",
+    "listUrl": null,
+    "color": {
+      "bg": "#172554",
+      "fg": "#EFF6FF",
+      "accent": "#93C5FD"
+    }
+  },
+  {
+    "slug": "ryan-holiday",
+    "name": "Ryan Holiday",
+    "role": "Author of The Obstacle Is the Way and The Daily Stoic",
+    "category": "Authors",
+    "bio": "Ryan Holiday is a bestselling author who popularized modern Stoicism through The Obstacle Is the Way and The Daily Stoic. A former marketing executive, he apprenticed as Robert Greene's research assistant before writing full time.",
+    "listUrl": "https://ryanholiday.net/the-reading-list/",
+    "color": {
+      "bg": "#3B2F2F",
+      "fg": "#F5EFE6",
+      "accent": "#D97706"
+    }
+  },
+  {
+    "slug": "sahil-bloom",
+    "name": "Sahil Bloom",
+    "role": "Author of The 5 Types of Wealth, writer of The Curiosity Chronicle",
+    "category": "Authors",
+    "bio": "Sahil Bloom is the author of The 5 Types of Wealth and writer of The Curiosity Chronicle, a newsletter read by millions. He left a private-equity career to write and invest full time.",
+    "listUrl": null,
+    "color": {
+      "bg": "#92400E",
+      "fg": "#FFFBEB",
+      "accent": "#FCD34D"
+    }
+  },
+  {
+    "slug": "sam-parr",
+    "name": "Sam Parr",
+    "role": "Founder of The Hustle, co-host of My First Million",
+    "category": "Founders",
+    "bio": "Sam Parr founded The Hustle newsletter and sold it to HubSpot in 2021; he co-hosts My First Million with Shaan Puri. He now runs Hampton, a community for founders.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0C4A6E",
+      "fg": "#F0F9FF",
+      "accent": "#22D3EE"
+    }
+  },
+  {
+    "slug": "shaan-puri",
+    "name": "Shaan Puri",
+    "role": "Host of the My First Million podcast",
+    "category": "Founders",
+    "bio": "Shaan Puri is a co-host of the My First Million podcast and former Twitch product lead and Bebo CEO. He writes a popular newsletter on startups and business ideas at shaanpuri.com.",
+    "listUrl": null,
+    "color": {
+      "bg": "#9A3412",
+      "fg": "#FFF7ED",
+      "accent": "#FDBA74"
+    }
+  },
+  {
+    "slug": "steve-jobs",
+    "name": "Steve Jobs",
+    "role": "Co-founder of Apple",
+    "category": "Founders",
+    "bio": "Steve Jobs co-founded Apple in 1976 and led it through the Mac, iPod, and iPhone eras. He died in 2011; his reading tastes are documented in Walter Isaacson's biography and in his interviews.",
+    "listUrl": null,
+    "color": {
+      "bg": "#18181B",
+      "fg": "#FAFAF9",
+      "accent": "#D4D4D8"
+    }
+  },
+  {
+    "slug": "tim-ferriss",
+    "name": "Tim Ferriss",
+    "role": "Author of The 4-Hour Workweek, host of The Tim Ferriss Show",
+    "category": "Authors",
+    "bio": "Author of The 4-Hour Workweek and host of The Tim Ferriss Show, a 1,000+ episode podcast deconstructing world-class performers. Publishes detailed book lists and runs the Tim Ferriss Book Club at tim.blog.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0E4D4E",
+      "fg": "#FDF6E3",
+      "accent": "#F59E0B"
+    }
+  },
+  {
+    "slug": "tom-bilyeu",
+    "name": "Tom Bilyeu",
+    "role": "Co-founder of Quest Nutrition, host of Impact Theory",
+    "category": "Founders",
+    "bio": "Tom Bilyeu co-founded Quest Nutrition and built it into a billion-dollar brand before its sale in 2019. He now hosts Impact Theory, the long-form interview show on mindset, business, and human potential.",
+    "listUrl": null,
+    "color": {
+      "bg": "#111827",
+      "fg": "#F9FAFB",
+      "accent": "#EF4444"
+    }
+  },
+  {
+    "slug": "tony-robbins",
+    "name": "Tony Robbins",
+    "role": "Author, speaker, and performance coach",
+    "category": "Authors",
+    "bio": "Tony Robbins is a bestselling author (Awaken the Giant Within, Money: Master the Game) and longtime performance coach whose seminars have drawn millions of attendees over four decades.",
+    "listUrl": null,
+    "color": {
+      "bg": "#0F172A",
+      "fg": "#F8FAFC",
+      "accent": "#FACC15"
+    }
   }
 ]

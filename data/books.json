@@ -1195,5 +1195,5439 @@
       "Technology"
     ],
     "coverId": 9002334
+  },
+  {
+    "slug": "bossypants",
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "isbn13": "9780316198035",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 6717606
+  },
+  {
+    "slug": "the-bluest-eye",
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "isbn13": "9780307941138",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1970,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15152696
+  },
+  {
+    "slug": "dear-black-girls",
+    "title": "Dear Black Girls",
+    "author": "A'ja Wilson",
+    "isbn13": "9781250290045",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2024,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 14828271
+  },
+  {
+    "slug": "more-than-enough",
+    "title": "More Than Enough",
+    "author": "Elaine Welteroth",
+    "isbn13": "9781529105438",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 100470
+  },
+  {
+    "slug": "power-moves",
+    "title": "Power Moves",
+    "author": "Sarah Jakes Roberts",
+    "isbn13": "9780785291909",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 14745177
+  },
+  {
+    "slug": "deception",
+    "title": "Deception",
+    "author": "Philip Roth",
+    "isbn13": "9780671732967",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1990,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6794671
+  },
+  {
+    "slug": "light-years",
+    "title": "Light Years",
+    "author": "James Salter",
+    "isbn13": "9788498385632",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1975,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 420455
+  },
+  {
+    "slug": "a-single-man",
+    "title": "A Single Man",
+    "author": "Christopher Isherwood",
+    "isbn13": "9788483460962",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1964,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 615649
+  },
+  {
+    "slug": "anagrams",
+    "title": "Anagrams",
+    "author": "Lorrie Moore",
+    "isbn13": "9780571260836",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 4176577
+  },
+  {
+    "slug": "the-wind-up-bird-chronicle",
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1997,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 630454
+  },
+  {
+    "slug": "audition",
+    "title": "Audition",
+    "author": "Katie Kitamura",
+    "isbn13": "9781911717324",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15110596
+  },
+  {
+    "slug": "the-ten-year-affair",
+    "title": "The Ten Year Affair",
+    "author": "Erin Somers",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "the-wilderness",
+    "title": "The Wilderness",
+    "author": "Angela Flournoy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6575862
+  },
+  {
+    "slug": "the-bell-jar",
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1963,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6259288
+  },
+  {
+    "slug": "letters-to-a-young-poet",
+    "title": "Letters to a Young Poet",
+    "author": "Rainer Maria Rilke",
+    "isbn13": "9780834843677",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1929,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 6874224
+  },
+  {
+    "slug": "pink-slime",
+    "title": "Pink Slime",
+    "author": "Fernanda Trías",
+    "isbn13": "9781668049792",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2024,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "between-the-world-and-me",
+    "title": "Between the World and Me",
+    "author": "Ta-Nehisi Coates",
+    "isbn13": "9782746743458",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 7359548
+  },
+  {
+    "slug": "the-agony-and-the-ecstasy",
+    "title": "The Agony and the Ecstasy",
+    "author": "Irving Stone",
+    "isbn13": "9787305158018",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1961,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 7234641
+  },
+  {
+    "slug": "a-little-life",
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "isbn13": "9788328037342",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 4698673
+  },
+  {
+    "slug": "anna-karenina",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "isbn13": "9783734508653",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1878,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7740257
+  },
+  {
+    "slug": "tales-of-the-city",
+    "title": "Tales of the City",
+    "author": "Armistead Maupin",
+    "isbn13": "9780552993845",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1978,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 978895
+  },
+  {
+    "slug": "mindhunter",
+    "title": "Mindhunter",
+    "author": "John E. Douglas and Mark Olshaker",
+    "isbn13": "9780671013752",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 490333
+  },
+  {
+    "slug": "the-autobiography-of-a-brown-buffalo",
+    "title": "The Autobiography of a Brown Buffalo",
+    "author": "Oscar Zeta Acosta",
+    "isbn13": "9780679722137",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1972,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 419790
+  },
+  {
+    "slug": "the-revolt-of-the-cockroach-people",
+    "title": "The Revolt of the Cockroach People",
+    "author": "Oscar Zeta Acosta",
+    "isbn13": "9780879320607",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1973,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 419789
+  },
+  {
+    "slug": "fear-and-loathing-in-las-vegas",
+    "title": "Fear and Loathing in Las Vegas",
+    "author": "Hunter S. Thompson",
+    "isbn13": "9783442443208",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1971,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 13396
+  },
+  {
+    "slug": "reminiscences-of-the-cuban-revolutionary-war",
+    "title": "Reminiscences of the Cuban Revolutionary War",
+    "author": "Ernesto Che Guevara",
+    "isbn13": "9780007846580",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1963,
+    "categories": [
+      "Biography",
+      "Politics"
+    ],
+    "coverId": 650099
+  },
+  {
+    "slug": "heavier-than-heaven",
+    "title": "Heavier Than Heaven",
+    "author": "Charles R. Cross",
+    "isbn13": "9781473699632",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2001,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 546148
+  },
+  {
+    "slug": "open",
+    "title": "Open",
+    "author": "Andre Agassi",
+    "isbn13": "9788415945482",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 6714053
+  },
+  {
+    "slug": "songs-my-mother-taught-me",
+    "title": "Songs My Mother Taught Me",
+    "author": "Marlon Brando",
+    "isbn13": "9780099436911",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 74300
+  },
+  {
+    "slug": "my-story",
+    "title": "My Story",
+    "author": "Ingrid Bergman",
+    "isbn13": "9780351312878",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1980,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 7101652
+  },
+  {
+    "slug": "the-audacity-of-hope",
+    "title": "The Audacity of Hope",
+    "author": "Barack Obama",
+    "isbn13": "9780739328187",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2006,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 468766
+  },
+  {
+    "slug": "the-curious-incident-of-the-dog-in-the-night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "author": "Mark Haddon",
+    "isbn13": "9788416923694",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2003,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7890719
+  },
+  {
+    "slug": "the-kite-runner",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "isbn13": "9781417640393",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2003,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14846827
+  },
+  {
+    "slug": "choosing-gold",
+    "title": "Choosing Gold",
+    "author": "Saurabh Gadgil",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2026,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 3062251
+  },
+  {
+    "slug": "thirst-trap",
+    "title": "Thirst Trap",
+    "author": "Gráinne O'Hare",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15216274
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Toni Morrison",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 9317262,
+    "isbn13": null,
+    "slug": "song-of-solomon-morrison",
+    "title": "Song of Solomon",
+    "year": 1977
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Richard Powers",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8758252,
+    "isbn13": null,
+    "slug": "the-overstory-powers",
+    "title": "The Overstory",
+    "year": 2018
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Madeline Miller",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8739376,
+    "isbn13": null,
+    "slug": "circe-miller",
+    "title": "Circe",
+    "year": 2018
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Nina McConigley",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15224648,
+    "isbn13": null,
+    "slug": "how-to-commit-a-postcolonial-murder-mcconigley",
+    "title": "How to Commit a Postcolonial Murder",
+    "year": 2026
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Toni Morrison",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8384008,
+    "isbn13": null,
+    "slug": "sula-morrison",
+    "title": "Sula",
+    "year": 1973
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Tommy Orange",
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "coverId": 14824768,
+    "isbn13": null,
+    "slug": "wandering-stars-orange",
+    "title": "Wandering Stars",
+    "year": 2024
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Percival Everett",
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "coverId": 15094964,
+    "isbn13": null,
+    "slug": "james-everett",
+    "title": "James",
+    "year": 2024
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Jacqueline Woodson",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12293444,
+    "isbn13": null,
+    "slug": "red-at-the-bone-woodson",
+    "title": "Red at the Bone",
+    "year": 2019
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Alice Feeney",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15248921,
+    "isbn13": null,
+    "slug": "my-husbands-wife-feeney",
+    "title": "My Husband's Wife",
+    "year": 2025
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "S.A. Cosby",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10480276,
+    "isbn13": null,
+    "slug": "razorblade-tears-cosby",
+    "title": "Razorblade Tears",
+    "year": 2021
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Gillian Flynn",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8368314,
+    "isbn13": null,
+    "slug": "gone-girl-flynn",
+    "title": "Gone Girl",
+    "year": 2012
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Victoria Helen Stone",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10866994,
+    "isbn13": null,
+    "slug": "jane-doe-stone",
+    "title": "Jane Doe",
+    "year": 2018
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Stephen King",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 9256043,
+    "isbn13": null,
+    "slug": "carrie-king",
+    "title": "Carrie",
+    "year": 1974
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Alison Gaylin",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10715652,
+    "isbn13": null,
+    "slug": "the-collective-gaylin",
+    "title": "The Collective",
+    "year": 2021
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "John Steinbeck",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 11386937,
+    "isbn13": null,
+    "slug": "east-of-eden-steinbeck",
+    "title": "East of Eden",
+    "year": 1952
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Suzanne Collins",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12646537,
+    "isbn13": null,
+    "slug": "the-hunger-games-collins",
+    "title": "The Hunger Games",
+    "year": 2008
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Suzanne Collins",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12646539,
+    "isbn13": null,
+    "slug": "catching-fire-collins",
+    "title": "Catching Fire",
+    "year": 2009
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Suzanne Collins",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12646459,
+    "isbn13": null,
+    "slug": "mockingjay-collins",
+    "title": "Mockingjay",
+    "year": 2010
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Suzanne Collins",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14847912,
+    "isbn13": null,
+    "slug": "sunrise-on-the-reaping-collins",
+    "title": "Sunrise on the Reaping",
+    "year": 2025
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Ursula K. Le Guin",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10618463,
+    "isbn13": null,
+    "slug": "the-left-hand-of-darkness-le-guin",
+    "title": "The Left Hand of Darkness",
+    "year": 1969
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Neil Postman",
+    "categories": [
+      "Philosophy",
+      "Technology"
+    ],
+    "coverId": 94285,
+    "isbn13": null,
+    "slug": "amusing-ourselves-to-death-postman",
+    "title": "Amusing Ourselves to Death",
+    "year": 1985
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Ray Bradbury",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12993656,
+    "isbn13": null,
+    "slug": "fahrenheit-451-bradbury",
+    "title": "Fahrenheit 451",
+    "year": 1953
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Aldous Huxley",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8231823,
+    "isbn13": null,
+    "slug": "brave-new-world-huxley",
+    "title": "Brave New World",
+    "year": 1932
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "John Williams",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8310729,
+    "isbn13": null,
+    "slug": "stoner-williams",
+    "title": "Stoner",
+    "year": 1965
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Gabriel Garcia Marquez",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15185412,
+    "isbn13": null,
+    "slug": "one-hundred-years-of-solitude-marquez",
+    "title": "One Hundred Years of Solitude",
+    "year": 1967
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Susanna Kaysen",
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 3956219,
+    "isbn13": null,
+    "slug": "girl-interrupted-kaysen",
+    "title": "Girl, Interrupted",
+    "year": 1993
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "John Green",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7418786,
+    "isbn13": null,
+    "slug": "the-fault-in-our-stars-green",
+    "title": "The Fault in Our Stars",
+    "year": 2012
+  },
+  {
+    "slug": "the-trick-is-to-keep-breathing-galloway",
+    "title": "The Trick Is To Keep Breathing",
+    "author": "Janice Galloway",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1989,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 801455
+  },
+  {
+    "slug": "the-passion-winterson",
+    "title": "The Passion",
+    "author": "Jeanette Winterson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1987,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 3198854
+  },
+  {
+    "slug": "the-blind-assassin-atwood",
+    "title": "The Blind Assassin",
+    "author": "Margaret Atwood",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 11041760
+  },
+  {
+    "slug": "lanark-gray",
+    "title": "Lanark: A Life in Four Books",
+    "author": "Alasdair Gray",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1981,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8281998
+  },
+  {
+    "slug": "close-up-fraser",
+    "title": "Close Up",
+    "author": "John Fraser",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2004,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 2012741
+  },
+  {
+    "slug": "maggie-and-me-barr",
+    "title": "Maggie and Me",
+    "author": "Damian Barr",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 12545124
+  },
+  {
+    "slug": "after-leaving-mr-mackenzie-rhys",
+    "title": "After Leaving Mr. Mackenzie",
+    "author": "Jean Rhys",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1931,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 107899
+  },
+  {
+    "slug": "erasure-everett",
+    "title": "Erasure",
+    "author": "Percival Everett",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2001,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 848473
+  },
+  {
+    "slug": "the-eyes-and-the-impossible-eggers",
+    "title": "The Eyes and the Impossible",
+    "author": "Dave Eggers",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2023,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14731454
+  },
+  {
+    "slug": "housekeeping-robinson",
+    "title": "Housekeeping",
+    "author": "Marilynne Robinson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1980,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 223038
+  },
+  {
+    "slug": "the-animal-family-jarrell",
+    "title": "The Animal Family",
+    "author": "Randall Jarrell",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1965,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 48159
+  },
+  {
+    "slug": "lonesome-dove-mcmurtry",
+    "title": "Lonesome Dove",
+    "author": "Larry McMurtry",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1985,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8376548
+  },
+  {
+    "slug": "the-good-lord-bird-mcbride",
+    "title": "The Good Lord Bird",
+    "author": "James McBride",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "coverId": 8332028
+  },
+  {
+    "slug": "just-kids-smith",
+    "title": "Just Kids",
+    "author": "Patti Smith",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 6671097
+  },
+  {
+    "slug": "a-court-of-thorns-and-roses-maas",
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15254465
+  },
+  {
+    "slug": "fourth-wing-yarros",
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2023,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14407898
+  },
+  {
+    "slug": "white-torture-mohammadi",
+    "title": "White Torture: Interviews with Iranian Women Prisoners",
+    "author": "Narges Mohammadi",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2022,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 13191716
+  },
+  {
+    "slug": "the-souls-of-black-folk-du-bois",
+    "title": "The Souls of Black Folk",
+    "author": "W. E. B. Du Bois",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1903,
+    "categories": [
+      "History"
+    ],
+    "coverId": 6564090
+  },
+  {
+    "slug": "how-to-stop-time-haig",
+    "title": "How to Stop Time",
+    "author": "Matt Haig",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12569812
+  },
+  {
+    "slug": "the-midnight-library-haig",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10313767
+  },
+  {
+    "slug": "the-brief-wondrous-life-of-oscar-wao-diaz",
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Díaz",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12451659
+  },
+  {
+    "slug": "go-tell-it-on-the-mountain",
+    "title": "Go Tell It on the Mountain",
+    "author": "James Baldwin",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1953,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 97426
+  },
+  {
+    "slug": "the-second-tree-from-the-corner-white",
+    "title": "The Second Tree from the Corner",
+    "author": "E. B. White",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1954,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7140464
+  },
+  {
+    "slug": "nine-stories-salinger",
+    "title": "Nine Stories",
+    "author": "J. D. Salinger",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1948,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 392623
+  },
+  {
+    "slug": "the-jaws-log-gottlieb",
+    "title": "The Jaws Log",
+    "author": "Carl Gottlieb",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1975,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 779221
+  },
+  {
+    "slug": "making-movies-lumet",
+    "title": "Making Movies",
+    "author": "Sidney Lumet",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 14251489
+  },
+  {
+    "slug": "bag-man-maddow",
+    "title": "Bag Man",
+    "author": "Rachel Maddow and Michael Yarvitz",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "History",
+      "Politics"
+    ],
+    "coverId": 10543346
+  },
+  {
+    "slug": "business-adventures-brooks",
+    "title": "Business Adventures",
+    "author": "John Brooks",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1969,
+    "categories": [
+      "Business",
+      "History"
+    ],
+    "coverId": 8231778
+  },
+  {
+    "slug": "the-hard-thing-about-hard-things-horowitz",
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7279515
+  },
+  {
+    "slug": "abundance-diamandis",
+    "title": "Abundance",
+    "author": "Peter H. Diamandis and Steven Kotler",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Science",
+      "Technology"
+    ],
+    "coverId": 7105433
+  },
+  {
+    "slug": "the-second-machine-age-brynjolfsson",
+    "title": "The Second Machine Age",
+    "author": "Erik Brynjolfsson and Andrew McAfee",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Economics",
+      "Technology"
+    ],
+    "coverId": 7288934
+  },
+  {
+    "slug": "physics-of-the-future-kaku",
+    "title": "Physics of the Future",
+    "author": "Michio Kaku",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Science",
+      "Technology"
+    ],
+    "coverId": 6712851
+  },
+  {
+    "slug": "big-bang-disruption-downes",
+    "title": "Big Bang Disruption",
+    "author": "Larry Downes and Paul Nunes",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Business",
+      "Technology"
+    ],
+    "coverId": 8976682
+  },
+  {
+    "slug": "the-lean-startup-ries",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7104760
+  },
+  {
+    "slug": "trillion-dollar-coach-schmidt",
+    "title": "Trillion Dollar Coach",
+    "author": "Eric Schmidt, Jonathan Rosenberg and Alan Eagle",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 8797805
+  },
+  {
+    "slug": "on-earth-we-re-briefly-gorgeous-vuong",
+    "title": "On Earth We're Briefly Gorgeous",
+    "author": "Ocean Vuong",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10030425
+  },
+  {
+    "slug": "cult-x-nakamura",
+    "title": "Cult X",
+    "author": "Fuminori Nakamura",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 13898874
+  },
+  {
+    "slug": "the-count-of-monte-cristo-dumas",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1844,
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "coverId": 14937760
+  },
+  {
+    "slug": "the-bible",
+    "title": "The Bible",
+    "author": "Various authors",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1611,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 2918144
+  },
+  {
+    "slug": "the-making-of-the-atomic-bomb-rhodes",
+    "title": "The Making of the Atomic Bomb",
+    "author": "Richard Rhodes",
+    "isbn13": "9780671441333",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "History",
+      "Science"
+    ],
+    "coverId": 6919988
+  },
+  {
+    "slug": "leviathan-wakes-corey",
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "isbn13": "9780316515986",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7314237
+  },
+  {
+    "slug": "the-guns-of-august-tuchman",
+    "title": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1962,
+    "categories": [
+      "History"
+    ],
+    "coverId": 6616967
+  },
+  {
+    "slug": "the-player-of-games-banks",
+    "title": "The Player of Games",
+    "author": "Iain M. Banks",
+    "isbn13": "9787513341240",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 44077
+  },
+  {
+    "slug": "walden-thoreau",
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "isbn13": "9781985814349",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1854,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 295408
+  },
+  {
+    "slug": "know-my-name-miller",
+    "title": "Know My Name",
+    "author": "Chanel Miller",
+    "isbn13": "9780735223721",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 9264396
+  },
+  {
+    "slug": "healing-back-pain-sarno",
+    "title": "Healing Back Pain",
+    "author": "John E. Sarno",
+    "isbn13": "9780446392303",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1991,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 285502
+  },
+  {
+    "slug": "the-easy-way-to-stop-smoking-carr",
+    "title": "The Easy Way to Stop Smoking",
+    "author": "Allen Carr",
+    "isbn13": "9781402718618",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1985,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 6714082
+  },
+  {
+    "slug": "the-easy-way-to-stop-drinking-carr",
+    "title": "The Easy Way to Stop Drinking",
+    "author": "Allen Carr",
+    "isbn13": "9781402736476",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 1738943
+  },
+  {
+    "slug": "getting-to-i-do-allen",
+    "title": "Getting to I Do",
+    "author": "Patricia Allen",
+    "isbn13": "9780380718153",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 6722470
+  },
+  {
+    "slug": "cupids-poisoned-arrow-robinson",
+    "title": "Cupid's Poisoned Arrow",
+    "author": "Marnia Robinson",
+    "isbn13": "9781556438097",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 9443500
+  },
+  {
+    "slug": "the-art-of-happiness-dalai-lama",
+    "title": "The Art of Happiness",
+    "author": "Dalai Lama and Howard C. Cutler",
+    "isbn13": "9780671582739",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1998,
+    "categories": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "coverId": 6671211
+  },
+  {
+    "slug": "celebrity-run-ins-griffin",
+    "title": "Kathy Griffin's Celebrity Run-ins",
+    "author": "Kathy Griffin",
+    "isbn13": "9781250115638",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 13069805
+  },
+  {
+    "slug": "heated-rivalry-reid",
+    "title": "Heated Rivalry",
+    "author": "Rachel Reid",
+    "isbn13": "9781335004048",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15226452
+  },
+  {
+    "slug": "climbing-the-mango-trees-jaffrey",
+    "title": "Climbing the Mango Trees",
+    "author": "Madhur Jaffrey",
+    "isbn13": "9780091912154",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 1726305
+  },
+  {
+    "slug": "jonathan-livingston-seagull-bach",
+    "title": "Jonathan Livingston Seagull",
+    "author": "Richard Bach",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1970,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 9381674
+  },
+  {
+    "slug": "in-pursuit-of-flavor-lewis",
+    "title": "In Pursuit of Flavor",
+    "author": "Edna Lewis",
+    "isbn13": "9780394542713",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 7024687
+  },
+  {
+    "slug": "on-the-road-kerouac",
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "isbn13": "9798588774130",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1957,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 34655
+  },
+  {
+    "slug": "les-fees-contes-des-contes",
+    "title": "Les Fées, Contes des Contes",
+    "author": "Charles Perrault",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": null,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "cage-of-eden-yamada",
+    "title": "Cage of Eden",
+    "author": "Yoshinobu Yamada",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "war-and-peace-tolstoy",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1869,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15111564
+  },
+  {
+    "slug": "moby-dick-melville",
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1851,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6901867
+  },
+  {
+    "slug": "mouchette-bernanos",
+    "title": "Mouchette",
+    "author": "Georges Bernanos",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1937,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 978195
+  },
+  {
+    "slug": "peter-pan-barrie",
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1911,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 2977086
+  },
+  {
+    "slug": "kim-kipling",
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1901,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 1053011
+  },
+  {
+    "slug": "the-blue-flower-fitzgerald",
+    "title": "The Blue Flower",
+    "author": "Penelope Fitzgerald",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14885979
+  },
+  {
+    "slug": "the-beginning-of-spring-fitzgerald",
+    "title": "The Beginning of Spring",
+    "author": "Penelope Fitzgerald",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6406
+  },
+  {
+    "slug": "typhoon-conrad",
+    "title": "Typhoon",
+    "author": "Joseph Conrad",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1902,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 1979349
+  },
+  {
+    "slug": "the-soccer-war-kapuscinski",
+    "title": "The Soccer War",
+    "author": "Ryszard Kapuściński",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1978,
+    "categories": [
+      "History"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "night-people-ronson",
+    "title": "Night People",
+    "author": "Mark Ronson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "steve-jobs-isaacson",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 12374726
+  },
+  {
+    "slug": "elon-musk-vance",
+    "title": "Elon Musk",
+    "author": "Ashlee Vance",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 8463846
+  },
+  {
+    "slug": "the-7-habits-of-highly-effective-people-covey",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1989,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 10079937
+  },
+  {
+    "slug": "the-four-galloway",
+    "title": "The Four",
+    "author": "Scott Galloway",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 8102776
+  },
+  {
+    "slug": "the-goal-goldratt",
+    "title": "The Goal",
+    "author": "Eliyahu M. Goldratt",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1984,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7262320
+  },
+  {
+    "slug": "zero-to-one-thiel",
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 9002334
+  },
+  {
+    "slug": "the-zuni-cafe-cookbook-rodgers",
+    "title": "The Zuni Cafe Cookbook",
+    "author": "Judy Rodgers",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2002,
+    "categories": [
+      "History"
+    ],
+    "coverId": 6784860
+  },
+  {
+    "slug": "chez-panisse-cooking-waters",
+    "title": "Chez Panisse Cooking",
+    "author": "Alice Waters",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "History"
+    ],
+    "coverId": 4764860
+  },
+  {
+    "slug": "the-french-menu-cookbook-olney",
+    "title": "The French Menu Cookbook",
+    "author": "Richard Olney",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1970,
+    "categories": [
+      "History"
+    ],
+    "coverId": 838806
+  },
+  {
+    "slug": "the-cooking-of-south-west-france-wolfert",
+    "title": "The Cooking of South-West France",
+    "author": "Paula Wolfert",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1983,
+    "categories": [
+      "History"
+    ],
+    "coverId": 947891
+  },
+  {
+    "slug": "revolution-from-within-steinem",
+    "title": "Revolution from Within",
+    "author": "Gloria Steinem",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1992,
+    "categories": [
+      "Psychology",
+      "Politics"
+    ],
+    "coverId": 3962765
+  },
+  {
+    "slug": "homegrown-hate-kamali",
+    "title": "Homegrown Hate",
+    "author": "Sara Kamali",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "we-the-resistance-long",
+    "title": "We the Resistance",
+    "author": "Michael G. Long",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "somos-latinas-arenas",
+    "title": "Somos Latinas",
+    "author": "Andrea-Teresa Arenas",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "History",
+      "Politics"
+    ],
+    "coverId": 8825256
+  },
+  {
+    "slug": "understanding-exposure-peterson",
+    "title": "Understanding Exposure",
+    "author": "Bryan Peterson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2004,
+    "categories": [
+      "Technology"
+    ],
+    "coverId": 10860009
+  },
+  {
+    "slug": "logic-and-computer-design-fundamentals-mano",
+    "title": "Logic and Computer Design Fundamentals",
+    "author": "Morris Mano",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Technology",
+      "Science"
+    ],
+    "coverId": 3853080
+  },
+  {
+    "slug": "microbe-hunters-de-kruif",
+    "title": "Microbe Hunters",
+    "author": "Paul de Kruif",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1926,
+    "categories": [
+      "Science",
+      "Biography"
+    ],
+    "coverId": 115207
+  },
+  {
+    "slug": "a-heranca-de-johanna-dobereiner-hungria",
+    "title": "A Herança de Johanna Döbereiner para a Ciência Agrícola Brasileira e Mundial",
+    "author": "Mariangela Hungria",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Science",
+      "Biography"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "breaking-free-sher",
+    "title": "Breaking Free",
+    "author": "Abby Sher",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 10735579
+  },
+  {
+    "slug": "range-epstein",
+    "title": "Range",
+    "author": "David Epstein",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 8782615
+  },
+  {
+    "slug": "bowling-alone-putnam",
+    "title": "Bowling Alone",
+    "author": "Robert D. Putnam",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Politics",
+      "Psychology"
+    ],
+    "coverId": 426348
+  },
+  {
+    "slug": "how-women-rise-helgesen",
+    "title": "How Women Rise",
+    "author": "Sally Helgesen and Marshall Goldsmith",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 9216238
+  },
+  {
+    "slug": "chatter-kross",
+    "title": "Chatter",
+    "author": "Ethan Kross",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 10539943
+  },
+  {
+    "slug": "the-candy-house-egan",
+    "title": "The Candy House",
+    "author": "Jennifer Egan",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2022,
+    "categories": [
+      "Fiction",
+      "Technology"
+    ],
+    "coverId": 12718922
+  },
+  {
+    "slug": "this-must-be-the-place-ofarrell",
+    "title": "This Must Be the Place",
+    "author": "Maggie O'Farrell",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10402295
+  },
+  {
+    "slug": "we-dont-know-ourselves-otoole",
+    "title": "We Don't Know Ourselves",
+    "author": "Fintan O'Toole",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "History",
+      "Biography"
+    ],
+    "coverId": 12381733
+  },
+  {
+    "slug": "wildland-osnos",
+    "title": "Wildland",
+    "author": "Evan Osnos",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": 11151495
+  },
+  {
+    "slug": "the-kids-whole-future-catalog-taylor",
+    "title": "The Kids' Whole Future Catalog",
+    "author": "Paula Taylor",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1982,
+    "categories": [
+      "Science",
+      "Technology"
+    ],
+    "coverId": 3371598
+  },
+  {
+    "slug": "letter-to-proba-augustine",
+    "title": "Letter to Proba (Letter 130)",
+    "author": "Augustine of Hippo",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 412,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "confessions-augustine",
+    "title": "Confessions",
+    "author": "Augustine of Hippo",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 398,
+    "categories": [
+      "Philosophy",
+      "Biography"
+    ],
+    "coverId": 9022521
+  },
+  {
+    "slug": "the-practice-of-the-presence-of-god-lawrence",
+    "title": "The Practice of the Presence of God",
+    "author": "Brother Lawrence",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1692,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 713834
+  },
+  {
+    "slug": "lord-of-the-world-benson",
+    "title": "Lord of the World",
+    "author": "Robert Hugh Benson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1907,
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "coverId": 2114295
+  },
+  {
+    "slug": "city-of-god-augustine",
+    "title": "City of God",
+    "author": "Augustine of Hippo",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 426,
+    "categories": [
+      "Philosophy",
+      "History"
+    ],
+    "coverId": 104325
+  },
+  {
+    "slug": "cien-anos-de-soledad-garcia-marquez",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1967,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12627383
+  },
+  {
+    "slug": "la-estructura-de-las-revoluciones-cientificas-kuhn",
+    "title": "La estructura de las revoluciones científicas",
+    "author": "Thomas Kuhn",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1962,
+    "categories": [
+      "Science",
+      "Philosophy"
+    ],
+    "coverId": 6566386
+  },
+  {
+    "slug": "la-reina-del-sur-perez-reverte",
+    "title": "La Reina del Sur",
+    "author": "Arturo Pérez-Reverte",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2002,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 1046725
+  },
+  {
+    "slug": "cronicas-marcianas-bradbury",
+    "title": "Crónicas Marcianas",
+    "author": "Ray Bradbury",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1950,
+    "categories": [
+      "Fiction",
+      "Science"
+    ],
+    "coverId": 9346537
+  },
+  {
+    "slug": "pueblo-lopez-obrador",
+    "title": "Pueblo",
+    "author": "Andrés Manuel López Obrador",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2026,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "courting-disaster-thiessen",
+    "title": "Courting Disaster",
+    "author": "Marc Thiessen",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": 11113750
+  },
+  {
+    "slug": "power-faith-and-fantasy-oren",
+    "title": "Power, Faith, and Fantasy",
+    "author": "Michael Oren",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": 1726663
+  },
+  {
+    "slug": "decision-points-bush",
+    "title": "Decision Points",
+    "author": "George W. Bush",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Biography",
+      "Politics"
+    ],
+    "coverId": 6672818
+  },
+  {
+    "slug": "jack-kemp-kondracke",
+    "title": "Jack Kemp",
+    "author": "Morton Kondracke and Fred Barnes",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography",
+      "Politics"
+    ],
+    "coverId": 11657644
+  },
+  {
+    "slug": "triggered-trump-jr",
+    "title": "Triggered",
+    "author": "Donald Trump Jr.",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 10838534
+  },
+  {
+    "slug": "talent-is-overrated-colvin",
+    "title": "Talent Is Overrated",
+    "author": "Geoff Colvin",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 9142137
+  },
+  {
+    "slug": "the-art-of-war-sun-tzu",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": null,
+    "categories": [
+      "Philosophy",
+      "History"
+    ],
+    "coverId": 4849549
+  },
+  {
+    "slug": "butler-zito",
+    "title": "Butler",
+    "author": "Salena Zito",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Biography",
+      "Politics"
+    ],
+    "coverId": 15104464
+  },
+  {
+    "slug": "what-it-is-america-tyrus",
+    "title": "What It Is, America",
+    "author": "Tyrus",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "venom-and-valor-jones",
+    "title": "Venom and Valor",
+    "author": "James Jones",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2024,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "and-then-they-prayed-loudermilk",
+    "title": "And Then They Prayed",
+    "author": "Barry Loudermilk",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Biography",
+      "Politics"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "trumps-triumph-gingrich",
+    "title": "Trump's Triumph",
+    "author": "Newt Gingrich",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2025,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": null
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Virginia Woolf",
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 6559057,
+    "isbn13": "9780760791837",
+    "slug": "a-room-of-ones-own-woolf",
+    "title": "A Room of One's Own",
+    "year": 1929
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Astrid Lindgren",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8311644,
+    "isbn13": "9780142402498",
+    "slug": "pippi-longstocking-lindgren",
+    "title": "Pippi Longstocking",
+    "year": 1945
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "International Energy Agency",
+    "categories": [
+      "Economics",
+      "Business"
+    ],
+    "coverId": 13143149,
+    "isbn13": null,
+    "slug": "world-energy-outlook-iea",
+    "title": "World Energy Outlook",
+    "year": 2017
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "International Energy Agency",
+    "categories": [
+      "Economics",
+      "Business"
+    ],
+    "coverId": null,
+    "isbn13": "9789264277847",
+    "slug": "world-energy-investment-iea",
+    "title": "World Energy Investment",
+    "year": 2017
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "International Energy Agency",
+    "categories": [
+      "Economics",
+      "Science"
+    ],
+    "coverId": null,
+    "isbn13": "9789264270503",
+    "slug": "energy-technology-perspectives-iea",
+    "title": "Energy Technology Perspectives",
+    "year": 2017
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Jonathan Mahler",
+    "categories": [
+      "History",
+      "Politics"
+    ],
+    "coverId": null,
+    "isbn13": "9780525510635",
+    "slug": "the-gods-of-new-york-mahler",
+    "title": "The Gods of New York",
+    "year": 2025
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Diana Gabaldon",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14428230,
+    "isbn13": "9780385302302",
+    "slug": "outlander-gabaldon",
+    "title": "Outlander",
+    "year": 1991
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Victor Hugo",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 12721865,
+    "isbn13": null,
+    "slug": "les-miserables-victor-hugo",
+    "title": "Les Misérables",
+    "year": 1862
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Karl Marx",
+    "categories": [
+      "Economics"
+    ],
+    "coverId": 10995820,
+    "isbn13": null,
+    "slug": "das-kapital-karl-marx",
+    "title": "Das Kapital",
+    "year": 1867
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "William Shakespeare",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8281954,
+    "isbn13": null,
+    "slug": "hamlet-william-shakespeare",
+    "title": "Hamlet",
+    "year": 1603
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Nikolay Chernyshevsky",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 4722103,
+    "isbn13": null,
+    "slug": "what-is-to-be-done-nikolay-chernyshevsky",
+    "title": "What Is to Be Done?",
+    "year": 1863
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Johann Wolfgang von Goethe",
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6499459,
+    "isbn13": null,
+    "slug": "faust-johann-wolfgang-von-goethe",
+    "title": "Faust",
+    "year": 1808
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Stefan Zweig",
+    "categories": [
+      "History"
+    ],
+    "coverId": 2755991,
+    "isbn13": null,
+    "slug": "brazil-a-land-of-the-future-stefan-zweig",
+    "title": "Brazil: A Land of the Future",
+    "year": 1941
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Alec Ross",
+    "categories": [
+      "Technology"
+    ],
+    "coverId": 9227976,
+    "isbn13": null,
+    "slug": "the-industries-of-the-future-alec-ross",
+    "title": "The Industries of the Future",
+    "year": 2016
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Ron Chernow",
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 8261375,
+    "isbn13": null,
+    "slug": "alexander-hamilton-ron-chernow",
+    "title": "Alexander Hamilton",
+    "year": 2004
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Henry Kissinger",
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 9423884,
+    "isbn13": null,
+    "slug": "world-order-henry-kissinger",
+    "title": "World Order",
+    "year": 2014
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Salim Ismail",
+    "categories": [
+      "Business"
+    ],
+    "coverId": 11948248,
+    "isbn13": null,
+    "slug": "exponential-organizations-salim-ismail",
+    "title": "Exponential Organizations",
+    "year": 2014
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Samuel Katz",
+    "categories": [
+      "History"
+    ],
+    "coverId": null,
+    "isbn13": null,
+    "slug": "the-aaronsohn-saga-samuel-katz",
+    "title": "The Aaronsohn Saga",
+    "year": 2007
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "Will Durant",
+    "categories": [
+      "History"
+    ],
+    "coverId": 7240225,
+    "isbn13": null,
+    "slug": "the-lessons-of-history-will-durant",
+    "title": "The Lessons of History",
+    "year": 1968
+  },
+  {
+    "asin": null,
+    "audibleAsin": null,
+    "author": "John David Lewis",
+    "categories": [
+      "History"
+    ],
+    "coverId": 9595511,
+    "isbn13": null,
+    "slug": "nothing-less-than-victory-john-david-lewis",
+    "title": "Nothing Less Than Victory",
+    "year": 2010
+  },
+  {
+    "slug": "against-the-odds",
+    "title": "Against the Odds",
+    "author": "James Dyson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1997,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 7237355
+  },
+  {
+    "slug": "titan",
+    "title": "Titan",
+    "author": "Ron Chernow",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1998,
+    "categories": [
+      "Biography",
+      "Business",
+      "History"
+    ],
+    "coverId": 14601475
+  },
+  {
+    "slug": "the-autobiography-of-andrew-carnegie",
+    "title": "The Autobiography of Andrew Carnegie",
+    "author": "Andrew Carnegie",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1920,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 295886
+  },
+  {
+    "slug": "confessions-of-an-advertising-man",
+    "title": "Confessions of an Advertising Man",
+    "author": "David Ogilvy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1963,
+    "categories": [
+      "Business",
+      "Biography"
+    ],
+    "coverId": 6987979
+  },
+  {
+    "slug": "a-man-for-all-markets",
+    "title": "A Man for All Markets",
+    "author": "Edward O. Thorp",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 8822906
+  },
+  {
+    "slug": "who-is-michael-ovitz",
+    "title": "Who Is Michael Ovitz?",
+    "author": "Michael Ovitz",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 12800800
+  },
+  {
+    "slug": "sam-walton-made-in-america",
+    "title": "Sam Walton: Made in America",
+    "author": "Sam Walton",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1992,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "the-dream-of-solomeo",
+    "title": "The Dream of Solomeo",
+    "author": "Brunello Cucinelli",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": null
+  },
+  {
+    "slug": "the-invisible-billionaire",
+    "title": "The Invisible Billionaire",
+    "author": "Jerry Shields",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 12916751
+  },
+  {
+    "slug": "pride-in-performance",
+    "title": "Pride in Performance",
+    "author": "Les Schwab",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 9241481
+  },
+  {
+    "slug": "damn-right",
+    "title": "Damn Right",
+    "author": "Janet Lowe",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 302474
+  },
+  {
+    "slug": "the-everything-store",
+    "title": "The Everything Store",
+    "author": "Brad Stone",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Business",
+      "Biography",
+      "Technology"
+    ],
+    "coverId": 7264584
+  },
+  {
+    "slug": "grinding-it-out",
+    "title": "Grinding It Out",
+    "author": "Ray Kroc",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1977,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 183780
+  },
+  {
+    "slug": "made-in-japan",
+    "title": "Made in Japan",
+    "author": "Akio Morita",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Biography",
+      "Business",
+      "Technology"
+    ],
+    "coverId": 5415667
+  },
+  {
+    "slug": "losing-my-virginity",
+    "title": "Losing My Virginity",
+    "author": "Richard Branson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1998,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 605511
+  },
+  {
+    "slug": "becoming-steve-jobs",
+    "title": "Becoming Steve Jobs",
+    "author": "Brent Schlender and Rick Tetzeli",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography",
+      "Business",
+      "Technology"
+    ],
+    "coverId": 8191112
+  },
+  {
+    "slug": "sol-price",
+    "title": "Sol Price",
+    "author": "Robert E. Price",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 10808168
+  },
+  {
+    "slug": "my-life-and-work",
+    "title": "My Life and Work",
+    "author": "Henry Ford",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1922,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 1200056
+  },
+  {
+    "slug": "the-molecule-of-more",
+    "title": "The Molecule of More",
+    "author": "Daniel Z. Lieberman & Michael E. Long",
+    "isbn13": "9781978643741",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 10648753
+  },
+  {
+    "slug": "deep-work",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "isbn13": "9783864149351",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 7988607
+  },
+  {
+    "slug": "the-4-hour-body",
+    "title": "The 4-Hour Body",
+    "author": "Timothy Ferriss",
+    "isbn13": "9789752118072",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 6673523
+  },
+  {
+    "slug": "breath",
+    "title": "Breath",
+    "author": "James Nestor",
+    "isbn13": "9780241289099",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 10096454
+  },
+  {
+    "slug": "outlive",
+    "title": "Outlive",
+    "author": "Peter Attia & Bill Gifford",
+    "isbn13": "9780593236604",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2023,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 13191259
+  },
+  {
+    "slug": "the-road-to-character",
+    "title": "The Road to Character",
+    "author": "David Brooks",
+    "isbn13": "9780241186732",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Philosophy",
+      "Biography"
+    ],
+    "coverId": 7442841
+  },
+  {
+    "slug": "finding-ultra",
+    "title": "Finding Ultra",
+    "author": "Rich Roll",
+    "isbn13": "9781538554623",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 9222327
+  },
+  {
+    "slug": "how-emotions-are-made",
+    "title": "How Emotions Are Made",
+    "author": "Lisa Feldman Barrett",
+    "isbn13": "9789584268365",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 10453464
+  },
+  {
+    "slug": "longitude",
+    "title": "Longitude",
+    "author": "Dava Sobel",
+    "isbn13": "9781606712764",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "History",
+      "Science"
+    ],
+    "coverId": 13654
+  },
+  {
+    "slug": "on-the-move",
+    "title": "On the Move",
+    "author": "Oliver Sacks",
+    "isbn13": "9781447264057",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Biography",
+      "Science"
+    ],
+    "coverId": 10107094
+  },
+  {
+    "slug": "wherever-you-go-there-you-are",
+    "title": "Wherever You Go, There You Are",
+    "author": "Jon Kabat-Zinn",
+    "isbn13": "9781593976675",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "coverId": 749813
+  },
+  {
+    "slug": "altered-traits",
+    "title": "Altered Traits",
+    "author": "Daniel Goleman & Richard J. Davidson",
+    "isbn13": "9780399184383",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 9253925
+  },
+  {
+    "slug": "the-circadian-code",
+    "title": "The Circadian Code",
+    "author": "Satchin Panda",
+    "isbn13": "9781635652437",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 11112952
+  },
+  {
+    "slug": "the-secret-pulse-of-time",
+    "title": "The Secret Pulse of Time",
+    "author": "Stefan Klein",
+    "isbn13": "9781600940170",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 2976845
+  },
+  {
+    "slug": "trauma-the-invisible-epidemic",
+    "title": "Trauma: The Invisible Epidemic",
+    "author": "Paul Conti",
+    "isbn13": "9781529193190",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 12420080
+  },
+  {
+    "slug": "thinking-fast-and-slow",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "isbn13": "9781804220375",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Psychology",
+      "Economics"
+    ],
+    "coverId": 13290711
+  },
+  {
+    "slug": "why-we-sleep",
+    "title": "Why We Sleep",
+    "author": "Matthew Walker",
+    "isbn13": "9780141983776",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 8814155
+  },
+  {
+    "slug": "mans-search-for-meaning",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1946,
+    "categories": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "coverId": 465226
+  },
+  {
+    "slug": "principles",
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "isbn13": "9781501124051",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 8315355
+  },
+  {
+    "slug": "hooked",
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "isbn13": "9789089652706",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 12511799
+  },
+  {
+    "slug": "predictably-irrational",
+    "title": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "isbn13": "9780062018205",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Psychology",
+      "Economics"
+    ],
+    "coverId": 2314080
+  },
+  {
+    "slug": "a-mind-at-play",
+    "title": "A Mind at Play",
+    "author": "Jimmy Soni & Rob Goodman",
+    "isbn13": "9781476766683",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Biography",
+      "Science"
+    ],
+    "coverId": 13157757
+  },
+  {
+    "slug": "behave",
+    "title": "Behave",
+    "author": "Robert M. Sapolsky",
+    "isbn13": "9781847924711",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 8814831
+  },
+  {
+    "slug": "wtf",
+    "title": "WTF?",
+    "author": "Tim O'Reilly",
+    "isbn13": "9780062699558",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Technology",
+      "Business"
+    ],
+    "coverId": 14590387
+  },
+  {
+    "slug": "zen-and-the-art-of-motorcycle-maintenance",
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "isbn13": "9780552993784",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1974,
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "coverId": 10673266
+  },
+  {
+    "slug": "zero-the-biography-of-a-dangerous-idea",
+    "title": "Zero: The Biography of a Dangerous Idea",
+    "author": "Charles Seife",
+    "isbn13": "9780285635944",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Science",
+      "History"
+    ],
+    "coverId": 9321912
+  },
+  {
+    "slug": "the-almanack-of-naval-ravikant",
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "isbn13": "9781544514222",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Business",
+      "Philosophy"
+    ],
+    "coverId": 10449931
+  },
+  {
+    "slug": "let-my-people-go-surfing",
+    "title": "Let My People Go Surfing",
+    "author": "Yvon Chouinard",
+    "isbn13": "9781594200724",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Business",
+      "Biography"
+    ],
+    "coverId": 6875301
+  },
+  {
+    "slug": "only-the-paranoid-survive",
+    "title": "Only the Paranoid Survive",
+    "author": "Andrew S. Grove",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1996,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 241061
+  },
+  {
+    "slug": "how-to-make-a-few-billion-dollars",
+    "title": "How to Make a Few Billion Dollars",
+    "author": "Brad Jacobs",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2024,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 15104244
+  },
+  {
+    "slug": "extreme-ownership",
+    "title": "Extreme Ownership",
+    "author": "Jocko Willink, Leif Babin",
+    "isbn13": "9781250067050",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 12835042
+  },
+  {
+    "slug": "who-not-how",
+    "title": "Who Not How",
+    "author": "Dan Sullivan, Benjamin Hardy",
+    "isbn13": "9781401960582",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 12412300
+  },
+  {
+    "slug": "the-ride-of-a-lifetime",
+    "title": "The Ride of a Lifetime",
+    "author": "Robert Iger",
+    "isbn13": "9780399592096",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 8788773
+  },
+  {
+    "slug": "setting-the-table",
+    "title": "Setting the Table",
+    "author": "Danny Meyer",
+    "isbn13": "9780060742751",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2006,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 33989
+  },
+  {
+    "slug": "unreasonable-hospitality",
+    "title": "Unreasonable Hospitality",
+    "author": "Will Guidara",
+    "isbn13": "9780593418574",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2022,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 14553904
+  },
+  {
+    "slug": "am-i-being-too-subtle",
+    "title": "Am I Being Too Subtle?",
+    "author": "Sam Zell",
+    "isbn13": "9781591848233",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Business",
+      "Biography"
+    ],
+    "coverId": 13811937
+  },
+  {
+    "slug": "on-bullshit",
+    "title": "On Bullshit",
+    "author": "Harry G. Frankfurt",
+    "isbn13": "9788449329302",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 9145748
+  },
+  {
+    "slug": "the-culture-code",
+    "title": "The Culture Code",
+    "author": "Daniel Coyle",
+    "isbn13": "9781847941275",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 10242550
+  },
+  {
+    "slug": "maverick",
+    "title": "Maverick",
+    "author": "Ricardo Semler",
+    "isbn13": "9780446670555",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1993,
+    "categories": [
+      "Business",
+      "Biography"
+    ],
+    "coverId": 287792
+  },
+  {
+    "slug": "quiet",
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "isbn13": "9780307352149",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 7079753
+  },
+  {
+    "slug": "seeking-wisdom",
+    "title": "Seeking Wisdom",
+    "author": "Peter Bevelin",
+    "isbn13": "9781578644285",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Business",
+      "Philosophy"
+    ],
+    "coverId": 9671797
+  },
+  {
+    "slug": "thinking-in-bets",
+    "title": "Thinking in Bets",
+    "author": "Annie Duke",
+    "isbn13": "9780735216372",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 8792782
+  },
+  {
+    "slug": "where-the-suckers-moon",
+    "title": "Where the Suckers Moon",
+    "author": "Randall Rothenberg",
+    "isbn13": "9780679740421",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Business",
+      "History"
+    ],
+    "coverId": 420439
+  },
+  {
+    "slug": "the-old-man-and-the-sea",
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "isbn13": "9780736651776",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1952,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 463307
+  },
+  {
+    "slug": "rabbit-is-rich",
+    "title": "Rabbit Is Rich",
+    "author": "John Updike",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1981,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 291193
+  },
+  {
+    "slug": "the-seven-day-weekend",
+    "title": "The Seven-Day Weekend",
+    "author": "Ricardo Semler",
+    "isbn13": "9781591840268",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2003,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 866010
+  },
+  {
+    "slug": "the-innovator-s-solution",
+    "title": "The Innovator's Solution",
+    "author": "Clayton M. Christensen, Michael E. Raynor",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2003,
+    "categories": [
+      "Business",
+      "Technology"
+    ],
+    "coverId": 834812
+  },
+  {
+    "slug": "the-remains-of-the-day",
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1989,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 95742
+  },
+  {
+    "slug": "built-to-last",
+    "title": "Built to Last",
+    "author": "Jim Collins and Jerry I. Porras",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 684195
+  },
+  {
+    "slug": "creation",
+    "title": "Creation: Life and How to Make It",
+    "author": "Steve Grand",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Science",
+      "Technology"
+    ],
+    "coverId": 157735
+  },
+  {
+    "slug": "rework",
+    "title": "Rework",
+    "author": "Jason Fried and David Heinemeier Hansson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 6679955
+  },
+  {
+    "slug": "memos-from-the-chairman",
+    "title": "Memos from the Chairman",
+    "author": "Alan C. Greenberg",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1996,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 507430
+  },
+  {
+    "slug": "the-mythical-man-month",
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1975,
+    "categories": [
+      "Technology",
+      "Business"
+    ],
+    "coverId": 6915361
+  },
+  {
+    "slug": "good-to-great",
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2001,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7431270
+  },
+  {
+    "slug": "lean-thinking",
+    "title": "Lean Thinking",
+    "author": "James P. Womack and Daniel T. Jones",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1996,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 425241
+  },
+  {
+    "slug": "the-black-swan",
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Economics"
+    ],
+    "coverId": 5721840
+  },
+  {
+    "slug": "the-blind-watchmaker",
+    "title": "The Blind Watchmaker",
+    "author": "Richard Dawkins",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 95763
+  },
+  {
+    "slug": "the-goal",
+    "title": "The Goal",
+    "author": "Eliyahu M. Goldratt and Jeff Cox",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1984,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7262320
+  },
+  {
+    "slug": "the-master-algorithm",
+    "title": "The Master Algorithm",
+    "author": "Pedro Domingos",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Technology",
+      "Science"
+    ],
+    "coverId": 9321915
+  },
+  {
+    "slug": "the-idiot",
+    "title": "The Idiot",
+    "author": "Fyodor Dostoevsky",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1869,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 10249475
+  },
+  {
+    "slug": "the-road",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2006,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 198120
+  },
+  {
+    "slug": "the-better-angels-of-our-nature",
+    "title": "The Better Angels of Our Nature",
+    "author": "Steven Pinker",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Psychology",
+      "History",
+      "Science"
+    ],
+    "coverId": 7906239
+  },
+  {
+    "slug": "1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1949,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 9267251
+  },
+  {
+    "slug": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1880,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 11263774
+  },
+  {
+    "slug": "the-stranger",
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1942,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 13151269
+  },
+  {
+    "slug": "love-and-math",
+    "title": "Love and Math",
+    "author": "Edward Frenkel",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Science",
+      "Biography"
+    ],
+    "coverId": 12410405
+  },
+  {
+    "slug": "the-end-of-power",
+    "title": "The End of Power",
+    "author": "Moisés Naím",
+    "isbn13": "9781469031200",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 9466557
+  },
+  {
+    "slug": "gang-leader-for-a-day",
+    "title": "Gang Leader for a Day",
+    "author": "Sudhir Venkatesh",
+    "isbn13": "9781594201509",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 8237731
+  },
+  {
+    "slug": "on-immunity",
+    "title": "On Immunity",
+    "author": "Eula Biss",
+    "isbn13": "9781555976897",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 10256593
+  },
+  {
+    "slug": "creativity-inc",
+    "title": "Creativity, Inc.",
+    "author": "Ed Catmull",
+    "isbn13": "9780593594643",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 13124793
+  },
+  {
+    "slug": "the-structure-of-scientific-revolutions",
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1962,
+    "categories": [
+      "Science",
+      "Philosophy"
+    ],
+    "coverId": 6566386
+  },
+  {
+    "slug": "rational-ritual",
+    "title": "Rational Ritual",
+    "author": "Michael Suk-Young Chwe",
+    "isbn13": "9780691009490",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Economics"
+    ],
+    "coverId": 439797
+  },
+  {
+    "slug": "why-nations-fail",
+    "title": "Why Nations Fail",
+    "author": "Daron Acemoglu and James A. Robinson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Economics",
+      "Politics"
+    ],
+    "coverId": 7253519
+  },
+  {
+    "slug": "the-new-jim-crow",
+    "title": "The New Jim Crow",
+    "author": "Michelle Alexander",
+    "isbn13": "9781595581037",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Politics",
+      "History"
+    ],
+    "coverId": 14826736
+  },
+  {
+    "slug": "the-muqaddimah",
+    "title": "The Muqaddimah",
+    "author": "Ibn Khaldun",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1377,
+    "categories": [
+      "History",
+      "Philosophy"
+    ],
+    "coverId": 440215
+  },
+  {
+    "slug": "the-three-body-problem",
+    "title": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "isbn13": "9781784971649",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7893958
+  },
+  {
+    "slug": "genome",
+    "title": "Genome",
+    "author": "Matt Ridley",
+    "isbn13": "9780606314152",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1999,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 1315392
+  },
+  {
+    "slug": "has-china-won",
+    "title": "Has China Won?",
+    "author": "Kishore Mahbubani",
+    "isbn13": "9781541768130",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Politics"
+    ],
+    "coverId": 9656657
+  },
+  {
+    "slug": "the-prize",
+    "title": "The Prize",
+    "author": "Daniel Yergin",
+    "isbn13": "9780671799328",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1990,
+    "categories": [
+      "History",
+      "Economics"
+    ],
+    "coverId": 409010
+  },
+  {
+    "slug": "how-to-get-rich",
+    "title": "How to Get Rich",
+    "author": "Felix Dennis",
+    "isbn13": "9780091912659",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2006,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 69947
+  },
+  {
+    "slug": "nuts",
+    "title": "Nuts!",
+    "author": "Kevin Freiberg, Jackie Freiberg",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1996,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 931953
+  },
+  {
+    "slug": "the-beak-of-the-finch",
+    "title": "The Beak of the Finch",
+    "author": "Jonathan Weiner",
+    "isbn13": "9780679733379",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 420144
+  },
+  {
+    "slug": "the-essays-of-warren-buffett",
+    "title": "The Essays of Warren Buffett",
+    "author": "Lawrence A. Cunningham",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1997,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 6497216
+  },
+  {
+    "slug": "the-checklist-manifesto",
+    "title": "The Checklist Manifesto",
+    "author": "Atul Gawande",
+    "isbn13": "9780805091748",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Business",
+      "Science"
+    ],
+    "coverId": 8231866
+  },
+  {
+    "slug": "the-little-book-that-beats-the-market",
+    "title": "The Little Book That Beats the Market",
+    "author": "Joel Greenblatt",
+    "isbn13": "9780743555852",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 481258
+  },
+  {
+    "slug": "one-up-on-wall-street",
+    "title": "One Up on Wall Street",
+    "author": "Peter Lynch",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1989,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 6241104
+  },
+  {
+    "slug": "the-snowball",
+    "title": "The Snowball",
+    "author": "Alice Schroeder",
+    "isbn13": "9780553805093",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 6916021
+  },
+  {
+    "slug": "i-dont-want-to-talk-about-it",
+    "title": "I Don't Want to Talk About It",
+    "author": "Terrence Real",
+    "isbn13": "9780684831022",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1997,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 426215
+  },
+  {
+    "slug": "the-talent-code",
+    "title": "The Talent Code",
+    "author": "Daniel Coyle",
+    "isbn13": "9780099519850",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Psychology",
+      "Science"
+    ],
+    "coverId": 11948223
+  },
+  {
+    "slug": "one-bullet-away",
+    "title": "One Bullet Away",
+    "author": "Nathaniel Fick",
+    "isbn13": "9780618556137",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 481167
+  },
+  {
+    "slug": "mistakes-were-made-but-not-by-me",
+    "title": "Mistakes Were Made (But Not by Me)",
+    "author": "Carol Tavris & Elliot Aronson",
+    "isbn13": "9780151010981",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 1119860
+  },
+  {
+    "slug": "good-calories-bad-calories",
+    "title": "Good Calories, Bad Calories",
+    "author": "Gary Taubes",
+    "isbn13": "9780307267948",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 8027557
+  },
+  {
+    "slug": "the-emperor-of-all-maladies",
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "isbn13": "9781439170915",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Science",
+      "History"
+    ],
+    "coverId": 11320203
+  },
+  {
+    "slug": "the-most-important-thing",
+    "title": "The Most Important Thing",
+    "author": "Howard Marks",
+    "isbn13": "9780231153683",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Business",
+      "Economics"
+    ],
+    "coverId": 10001222
+  },
+  {
+    "slug": "10-percent-happier",
+    "title": "10% Happier",
+    "author": "Dan Harris",
+    "isbn13": "9780062265425",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2014,
+    "categories": [
+      "Psychology",
+      "Biography"
+    ],
+    "coverId": 7277740
+  },
+  {
+    "slug": "solve-for-happy",
+    "title": "Solve for Happy",
+    "author": "Mo Gawdat",
+    "isbn13": "9781501157554",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "coverId": 8812960
+  },
+  {
+    "slug": "on-confidence",
+    "title": "On Confidence",
+    "author": "The School of Life",
+    "isbn13": "9780995573673",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "coverId": 14805070
+  },
+  {
+    "slug": "the-lessons-of-history",
+    "title": "The Lessons of History",
+    "author": "Will and Ariel Durant",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1968,
+    "categories": [
+      "History"
+    ],
+    "coverId": 7240225
+  },
+  {
+    "slug": "river-out-of-eden",
+    "title": "River Out of Eden",
+    "author": "Richard Dawkins",
+    "isbn13": "9781780226897",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 2352870
+  },
+  {
+    "slug": "the-hero-with-a-thousand-faces",
+    "title": "The Hero with a Thousand Faces",
+    "author": "Joseph Campbell",
+    "isbn13": "9780691017846",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1949,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 443668
+  },
+  {
+    "slug": "the-undoing-project",
+    "title": "The Undoing Project",
+    "author": "Michael Lewis",
+    "isbn13": "9780393254594",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 9595637
+  },
+  {
+    "slug": "einsteins-mistakes",
+    "title": "Einstein's Mistakes",
+    "author": "Hans C. Ohanian",
+    "isbn13": "9780393062939",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 2412726
+  },
+  {
+    "slug": "the-upside-of-inequality",
+    "title": "The Upside of Inequality",
+    "author": "Edward Conard",
+    "isbn13": "9781595231239",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Economics"
+    ],
+    "coverId": 14618261
+  },
+  {
+    "slug": "the-serengeti-rules",
+    "title": "The Serengeti Rules",
+    "author": "Sean B. Carroll",
+    "isbn13": "9780691175683",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 8881359
+  },
+  {
+    "slug": "from-bacteria-to-bach-and-back",
+    "title": "From Bacteria to Bach and Back",
+    "author": "Daniel C. Dennett",
+    "isbn13": "9780393242072",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 8425621
+  },
+  {
+    "slug": "the-power-of-habit",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "isbn13": "9780307966643",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 9078085
+  },
+  {
+    "slug": "security-analysis",
+    "title": "Security Analysis",
+    "author": "Benjamin Graham and David Dodd",
+    "isbn13": "9780071448208",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1934,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 60206
+  },
+  {
+    "slug": "the-rise-and-fall-of-the-great-powers",
+    "title": "The Rise and Fall of the Great Powers",
+    "author": "Paul Kennedy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1987,
+    "categories": [
+      "History"
+    ],
+    "coverId": 14570519
+  },
+  {
+    "slug": "letters-from-a-stoic",
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1969,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 103759
+  },
+  {
+    "slug": "discourses-and-selected-writings",
+    "title": "Discourses and Selected Writings",
+    "author": "Epictetus",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2008,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 12985050
+  },
+  {
+    "slug": "the-war-of-art",
+    "title": "The War of Art",
+    "author": "Steven Pressfield",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2002,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 288439
+  },
+  {
+    "slug": "the-power-broker",
+    "title": "The Power Broker",
+    "author": "Robert Caro",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1974,
+    "categories": [
+      "Biography",
+      "History",
+      "Politics"
+    ],
+    "coverId": 253659
+  },
+  {
+    "slug": "what-makes-sammy-run",
+    "title": "What Makes Sammy Run?",
+    "author": "Budd Schulberg",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1941,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 6820492
+  },
+  {
+    "slug": "the-moviegoer",
+    "title": "The Moviegoer",
+    "author": "Walker Percy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1961,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 291181
+  },
+  {
+    "slug": "the-rise-of-theodore-roosevelt",
+    "title": "The Rise of Theodore Roosevelt",
+    "author": "Edmund Morris",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1979,
+    "categories": [
+      "Biography",
+      "History"
+    ],
+    "coverId": 230304
+  },
+  {
+    "slug": "bird-by-bird",
+    "title": "Bird by Bird",
+    "author": "Anne Lamott",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1994,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 240973
+  },
+  {
+    "slug": "letters-from-a-self-made-merchant",
+    "title": "Letters from a Self-Made Merchant to His Son",
+    "author": "George Horace Lorimer",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1902,
+    "categories": [
+      "Business",
+      "Biography"
+    ],
+    "coverId": 5571745
+  },
+  {
+    "slug": "ask-the-dust",
+    "title": "Ask the Dust",
+    "author": "John Fante",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1939,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 4399673
+  },
+  {
+    "slug": "tunnel-29",
+    "title": "Tunnel 29",
+    "author": "Helena Merriman",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "History"
+    ],
+    "coverId": 11948880
+  },
+  {
+    "slug": "the-unbearable-lightness-of-being",
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1984,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 967823
+  },
+  {
+    "slug": "the-catcher-in-the-rye",
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1951,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 9273490
+  },
+  {
+    "slug": "the-splendid-and-the-vile",
+    "title": "The Splendid and the Vile",
+    "author": "Erik Larson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "History",
+      "Biography"
+    ],
+    "coverId": 9293917
+  },
+  {
+    "slug": "four-thousand-weeks",
+    "title": "Four Thousand Weeks",
+    "author": "Oliver Burkeman",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 11990973
+  },
+  {
+    "slug": "when-money-dies",
+    "title": "When Money Dies",
+    "author": "Adam Fergusson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1975,
+    "categories": [
+      "History",
+      "Economics"
+    ],
+    "coverId": 7072765
+  },
+  {
+    "slug": "the-success-equation",
+    "title": "The Success Equation",
+    "author": "Michael J. Mauboussin",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2012,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 13067718
+  },
+  {
+    "slug": "made-in-america",
+    "title": "Made in America",
+    "author": "Sam Walton",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1992,
+    "categories": [
+      "Biography",
+      "Business"
+    ],
+    "coverId": 371974
+  },
+  {
+    "slug": "the-daily-stoic",
+    "title": "The Daily Stoic",
+    "author": "Ryan Holiday and Stephen Hanselman",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Philosophy",
+      "Psychology"
+    ],
+    "coverId": 13098570
+  },
+  {
+    "slug": "just-keep-buying",
+    "title": "Just Keep Buying",
+    "author": "Nick Maggiulli",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2022,
+    "categories": [
+      "Economics",
+      "Business"
+    ],
+    "coverId": 14561679
+  },
+  {
+    "slug": "the-devil-in-the-white-city",
+    "title": "The Devil in the White City",
+    "author": "Erik Larson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2003,
+    "categories": [
+      "History",
+      "Biography"
+    ],
+    "coverId": 541027
+  },
+  {
+    "slug": "dead-wake",
+    "title": "Dead Wake",
+    "author": "Erik Larson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "History"
+    ],
+    "coverId": 7317226
+  },
+  {
+    "slug": "factfulness",
+    "title": "Factfulness",
+    "author": "Hans Rosling",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Science",
+      "Economics"
+    ],
+    "coverId": 8186237
+  },
+  {
+    "slug": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 12539702
+  },
+  {
+    "slug": "the-48-laws-of-power",
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "isbn13": "9781101034965",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1998,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 6424160
+  },
+  {
+    "slug": "how-to-win-friends-and-influence-people",
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "isbn13": "9782764023068",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1936,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 13314878
+  },
+  {
+    "slug": "the-50th-law",
+    "title": "The 50th Law",
+    "author": "50 Cent, Robert Greene",
+    "isbn13": "9780061959110",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 6422955
+  },
+  {
+    "slug": "on-writing",
+    "title": "On Writing",
+    "author": "Stephen King",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 9255939
+  },
+  {
+    "slug": "the-adweek-copywriting-handbook",
+    "title": "The Adweek Copywriting Handbook",
+    "author": "Joseph Sugarman",
+    "isbn13": "9780470051245",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1986,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 299664
+  },
+  {
+    "slug": "built-to-sell",
+    "title": "Built to Sell",
+    "author": "John Warrillow",
+    "isbn13": "9781591843979",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 15162903
+  },
+  {
+    "slug": "kitchen-confidential",
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2000,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 843879
+  },
+  {
+    "slug": "the-martian",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "isbn13": "9780804139021",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2011,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 11447888
+  },
+  {
+    "slug": "project-hail-mary",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "isbn13": "9781529100624",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2021,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 11200092
+  },
+  {
+    "slug": "brothers-emanuel",
+    "title": "Brothers Emanuel",
+    "author": "Ezekiel J. Emanuel",
+    "isbn13": "9781400069033",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 8288773
+  },
+  {
+    "slug": "storyworthy",
+    "title": "Storyworthy",
+    "author": "Matthew Dicks",
+    "isbn13": "9781978605190",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 10723193
+  },
+  {
+    "slug": "grit",
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "isbn13": "9781501111105",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 7438753
+  },
+  {
+    "slug": "die-with-zero",
+    "title": "Die with Zero",
+    "author": "Bill Perkins",
+    "isbn13": "9780358099765",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2020,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 10433791
+  },
+  {
+    "slug": "alchemy",
+    "title": "Alchemy",
+    "author": "Rory Sutherland",
+    "isbn13": "9780062388414",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 10184444
+  },
+  {
+    "slug": "ogilvy-on-advertising",
+    "title": "Ogilvy on Advertising",
+    "author": "David Ogilvy",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1983,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 4222376
+  },
+  {
+    "slug": "scientific-advertising",
+    "title": "Scientific Advertising",
+    "author": "Claude Hopkins",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1923,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 641900
+  },
+  {
+    "slug": "autobiography-of-a-yogi",
+    "title": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1946,
+    "categories": [
+      "Biography",
+      "Philosophy"
+    ],
+    "coverId": 805448
+  },
+  {
+    "slug": "king-lear",
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1608,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 7420452
+  },
+  {
+    "slug": "zen-mind-beginners-mind",
+    "title": "Zen Mind, Beginner's Mind",
+    "author": "Shunryu Suzuki",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1970,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 7025011
+  },
+  {
+    "slug": "cutting-through-spiritual-materialism",
+    "title": "Cutting Through Spiritual Materialism",
+    "author": "Chögyam Trungpa",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1973,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 671217
+  },
+  {
+    "slug": "be-here-now",
+    "title": "Be Here Now",
+    "author": "Ram Dass",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1971,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 12441918
+  },
+  {
+    "slug": "diet-for-a-small-planet",
+    "title": "Diet for a Small Planet",
+    "author": "Frances Moore Lappé",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1971,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 13854853
+  },
+  {
+    "slug": "the-mucusless-diet-healing-system",
+    "title": "The Mucusless Diet Healing System",
+    "author": "Arnold Ehret",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1922,
+    "categories": [
+      "Science"
+    ],
+    "coverId": 6642442
+  },
+  {
+    "slug": "selected-poems-dylan-thomas",
+    "title": "Selected Poems",
+    "author": "Dylan Thomas",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1989,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 501310
+  },
+  {
+    "slug": "the-republic",
+    "title": "The Republic",
+    "author": "Plato",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": null,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 15223028
+  },
+  {
+    "slug": "awareness",
+    "title": "Awareness",
+    "author": "Anthony de Mello",
+    "isbn13": "9780385249362",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1990,
+    "categories": [
+      "Philosophy",
+      "Psychology"
+    ],
+    "coverId": 238516
+  },
+  {
+    "slug": "the-obstacle-is-the-way",
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "isbn13": "9781781252895",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Philosophy",
+      "Business"
+    ],
+    "coverId": 14428233
+  },
+  {
+    "slug": "the-magic-of-thinking-big",
+    "title": "The Magic of Thinking Big",
+    "author": "David J. Schwartz",
+    "isbn13": "9780722509432",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1959,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 480539
+  },
+  {
+    "slug": "how-to-make-millions-with-your-ideas",
+    "title": "How to Make Millions with Your Ideas",
+    "author": "Dan S. Kennedy",
+    "isbn13": "9780452273160",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1996,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 296583
+  },
+  {
+    "slug": "the-e-myth-revisited",
+    "title": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "isbn13": "9780060574901",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1995,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 684209
+  },
+  {
+    "slug": "vagabonding",
+    "title": "Vagabonding",
+    "author": "Rolf Potts",
+    "isbn13": "9780812992182",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2002,
+    "categories": [
+      "Philosophy"
+    ],
+    "coverId": 9283857
+  },
+  {
+    "slug": "daily-rituals",
+    "title": "Daily Rituals",
+    "author": "Mason Currey",
+    "isbn13": "9780330512497",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2013,
+    "categories": [
+      "Biography"
+    ],
+    "coverId": 9283862
+  },
+  {
+    "slug": "zorba-the-greek",
+    "title": "Zorba the Greek",
+    "author": "Nikos Kazantzakis",
+    "isbn13": "9781664428737",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1946,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 14567040
+  },
+  {
+    "slug": "gates-of-fire",
+    "title": "Gates of Fire",
+    "author": "Steven Pressfield",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1998,
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "coverId": 370144
+  },
+  {
+    "slug": "how-to-change-your-mind",
+    "title": "How to Change Your Mind",
+    "author": "Michael Pollan",
+    "isbn13": "9780141985138",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2018,
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "coverId": 8805168
+  },
+  {
+    "slug": "the-effective-executive",
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "isbn13": "9780887306129",
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1966,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 4941284
+  },
+  {
+    "slug": "captivate",
+    "title": "Captivate",
+    "author": "Vanessa Van Edwards",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 10951273
+  },
+  {
+    "slug": "barking-up-the-wrong-tree",
+    "title": "Barking Up the Wrong Tree",
+    "author": "Eric Barker",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "Psychology",
+      "Business"
+    ],
+    "coverId": 10479556
+  },
+  {
+    "slug": "the-dark-tower-i-the-gunslinger",
+    "title": "The Dark Tower I: The Gunslinger",
+    "author": "Stephen King",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1982,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 8396638
+  },
+  {
+    "slug": "linchpin",
+    "title": "Linchpin",
+    "author": "Seth Godin",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2010,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 8754365
+  },
+  {
+    "slug": "the-power-of-myth",
+    "title": "The Power of Myth",
+    "author": "Joseph Campbell and Bill Moyers",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "Philosophy",
+      "History"
+    ],
+    "coverId": 240505
+  },
+  {
+    "slug": "homo-deus",
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "History",
+      "Science",
+      "Technology"
+    ],
+    "coverId": 14060659
+  },
+  {
+    "slug": "the-gulag-archipelago",
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1973,
+    "categories": [
+      "History"
+    ],
+    "coverId": 13947688
+  },
+  {
+    "slug": "red-famine",
+    "title": "Red Famine",
+    "author": "Anne Applebaum",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2017,
+    "categories": [
+      "History"
+    ],
+    "coverId": 8822588
+  },
+  {
+    "slug": "mao-the-unknown-story",
+    "title": "Mao: The Unknown Story",
+    "author": "Jung Chang and Jon Halliday",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2005,
+    "categories": [
+      "Biography",
+      "History"
+    ],
+    "coverId": 6536441
+  },
+  {
+    "slug": "the-machiavellians",
+    "title": "The Machiavellians: Defenders of Freedom",
+    "author": "James Burnham",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1943,
+    "categories": [
+      "Politics",
+      "Philosophy"
+    ],
+    "coverId": 2627194
+  },
+  {
+    "slug": "as-a-man-thinketh",
+    "title": "As a Man Thinketh",
+    "author": "James Allen",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1902,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 6268048
+  },
+  {
+    "slug": "the-alchemist",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1988,
+    "categories": [
+      "Fiction"
+    ],
+    "coverId": 15075893
+  },
+  {
+    "slug": "loving-what-is",
+    "title": "Loving What Is",
+    "author": "Byron Katie",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2002,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 390649
+  },
+  {
+    "slug": "the-emotion-code",
+    "title": "The Emotion Code",
+    "author": "Bradley Nelson",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2007,
+    "categories": [
+      "Psychology"
+    ],
+    "coverId": 14304477
+  },
+  {
+    "slug": "tools-of-titans",
+    "title": "Tools of Titans",
+    "author": "Tim Ferriss",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2016,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 7902475
+  },
+  {
+    "slug": "start-with-why",
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2009,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 6395237
+  },
+  {
+    "slug": "think-and-grow-rich",
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 1937,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 14542536
+  },
+  {
+    "slug": "everything-is-figureoutable",
+    "title": "Everything is Figureoutable",
+    "author": "Marie Forleo",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2019,
+    "categories": [
+      "Business",
+      "Psychology"
+    ],
+    "coverId": 8780412
+  },
+  {
+    "slug": "the-15-commitments-of-conscious-leadership",
+    "title": "The 15 Commitments of Conscious Leadership",
+    "author": "Jim Dethmer, Diana Chapman and Kaley Warner Klemp",
+    "isbn13": null,
+    "asin": null,
+    "audibleAsin": null,
+    "year": 2015,
+    "categories": [
+      "Business"
+    ],
+    "coverId": 14547688
   }
 ]
