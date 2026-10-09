@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #faf5ea;
+  --ink: #17130b;
+  --accent: #d9481c;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-accent: var(--accent);
+  --font-display: var(--font-newsreader), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-newsreader), Georgia, "Times New Roman", serif;
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* 3D book */
+.book3d-scene {
+  perspective: 1400px;
+}
+.book3d {
+  position: relative;
+  transform-style: preserve-3d;
+  cursor: grab;
+  touch-action: pan-y;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.book3d:active {
+  cursor: grabbing;
+}
+.book3d img {
+  pointer-events: none;
+  -webkit-user-drag: none;
+}
+.book3d-pages {
+  background: repeating-linear-gradient(
+    to right,
+    #f3ecdc 0px,
+    #f3ecdc 2px,
+    #ddd2b8 3px,
+    #f3ecdc 4px
+  );
+}
+
+/* Scroll dial */
+.scroll-dial-dash {
+  transition: all 0.25s ease;
+}
+
+/* Subtle paper texture for hero areas */
+.paper-grain {
+  background-image: radial-gradient(rgba(23, 19, 11, 0.055) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
