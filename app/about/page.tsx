@@ -96,6 +96,32 @@ export default function AboutPage() {
         Corrections welcome. If a recommendation is misattributed or a source
         link rots, it gets fixed or removed.
       </p>
+
+      <h2 id="image-credits" className="font-display mt-14 scroll-mt-16 text-3xl font-bold md:text-4xl">
+        Image credits
+      </h2>
+      <p className="mt-6 text-lg leading-relaxed text-ink/80">
+        Figure portraits come from Wikimedia Commons. Public-domain images
+        need no credit; the rest are used under their Creative Commons
+        licenses, credited here:
+      </p>
+      <ul className="mt-6 space-y-2 text-base leading-relaxed text-ink/80">
+        <li>Bill Gates portrait, CC BY 4.0, via Wikimedia Commons</li>
+        <li>Elon Musk portrait, CC BY-SA 4.0, via Wikimedia Commons</li>
+        <li>Satya Nadella portrait, CC BY-SA 4.0, via Wikimedia Commons</li>
+        <li>Sam Altman portrait by Village Global, CC BY 2.0, via Wikimedia Commons</li>
+        <li>Patrick Collison portrait, CC BY 2.0, via Wikimedia Commons</li>
+        <li>Paul Graham portrait, CC BY 2.0, via Wikimedia Commons</li>
+        <li>Reid Hoffman portrait, CC BY 2.0, via Wikimedia Commons</li>
+        <li>Naval Ravikant portrait, CC BY 3.0, via Wikimedia Commons</li>
+        <li>Demis Hassabis portrait, CC BY-SA 4.0, via Wikimedia Commons</li>
+        <li>Tyler Cowen portrait, CC BY-SA 3.0, via Wikimedia Commons</li>
+      </ul>
+      <p className="mt-4 text-base text-ink/60">
+        Portraits of Barack Obama, Oprah Winfrey, Warren Buffett, and Jensen
+        Huang are public-domain official photographs. Book covers are served
+        from the Open Library Covers API.
+      </p>
     </div>
   );
 }

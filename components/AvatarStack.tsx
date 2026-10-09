@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { initials } from "@/lib/site";
+import { Portrait } from "./Portrait";
 
 type StackFigure = {
   slug: string;
@@ -7,7 +7,7 @@ type StackFigure = {
   color: { bg: string; fg: string };
 };
 
-/** Overlapping row of clickable circular reader avatars. */
+/** Overlapping row of clickable circular reader avatars (real portraits). */
 export function AvatarStack({ figures, max = 8 }: { figures: StackFigure[]; max?: number }) {
   if (figures.length === 0) return null;
   const shown = figures.slice(0, max);
@@ -21,15 +21,16 @@ export function AvatarStack({ figures, max = 8 }: { figures: StackFigure[]; max?
           title={f.name}
           aria-label={f.name}
           role="listitem"
-          className="font-display flex h-11 w-11 items-center justify-center rounded-full text-sm font-bold ring-2 ring-paper transition-transform hover:z-20 hover:scale-110"
-          style={{
-            background: f.color.bg,
-            color: f.color.fg,
-            marginLeft: i === 0 ? 0 : -10,
-            zIndex: shown.length - i,
-          }}
+          className="block rounded-full ring-2 ring-paper transition-transform hover:z-20 hover:scale-110"
+          style={{ marginLeft: i === 0 ? 0 : -10, zIndex: shown.length - i }}
         >
-          {initials(f.name)}
+          <Portrait
+            slug={f.slug}
+            name={f.name}
+            bg={f.color.bg}
+            fg={f.color.fg}
+            className="h-11 w-11 rounded-full text-sm"
+          />
         </Link>
       ))}
       {rest > 0 && (

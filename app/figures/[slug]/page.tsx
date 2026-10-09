@@ -14,6 +14,7 @@ import { SourceBadge } from "@/components/SourceBadge";
 import { ShareButton } from "@/components/BuyButtons";
 import { FigureReadingList } from "@/components/FigureReadingList";
 import { FigureCard } from "@/components/FigureCard";
+import { Portrait } from "@/components/Portrait";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL, initials } from "@/lib/site";
 
@@ -34,7 +35,12 @@ export async function generateMetadata({
   return {
     title,
     description,
-    openGraph: { title, description, type: "profile" },
+    openGraph: {
+      title,
+      description,
+      type: "profile",
+      images: [`${SITE_URL}/figures/${f.slug}.jpg`],
+    },
   };
 }
 
@@ -126,28 +132,48 @@ export default async function FigurePage({
 
       {/* Hero */}
       <section id="overview" className="scroll-mt-16" style={{ background: bg, color: fg }}>
-        <div className="mx-auto max-w-6xl px-5 pb-16 pt-16 md:pt-24">
-          <p className="text-sm font-semibold uppercase tracking-[0.2em]" style={{ color: accent }}>
-            Reading list
-          </p>
-          <h1 className="font-display mt-4 max-w-4xl text-6xl font-bold leading-[0.95] tracking-tight md:text-8xl">
-            {figure.name}
-          </h1>
-          <p className="mt-4 text-xl opacity-80">{figure.role}</p>
-          <p className="mt-6 max-w-2xl text-lg leading-relaxed opacity-80">{figure.bio}</p>
+        <div className="mx-auto grid max-w-6xl gap-10 px-5 pb-4 pt-16 md:grid-cols-[300px_1fr] md:pt-24">
+          <div>
+            <Portrait
+              slug={figure.slug}
+              name={figure.name}
+              bg={bg}
+              fg={fg}
+              eager
+              className="aspect-[3/4] w-full rounded-[2rem] shadow-2xl"
+            />
+            <p className="mt-3 text-xs opacity-50">
+              Portrait via{" "}
+              <a href="/about/#image-credits" className="underline">
+                Wikimedia Commons
+              </a>
+            </p>
+          </div>
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-[0.2em]" style={{ color: accent }}>
+              Reading list
+            </p>
+            <h1 className="font-display mt-4 text-6xl font-bold leading-[0.95] tracking-tight md:text-8xl">
+              {figure.name}
+            </h1>
+            <p className="mt-4 text-xl opacity-80">{figure.role}</p>
+            <p className="mt-6 max-w-2xl text-lg leading-relaxed opacity-80">{figure.bio}</p>
 
-          <dl className="mt-8 flex flex-wrap gap-x-10 gap-y-4">
-            <div>
-              <dd className="font-display text-4xl font-bold">{recs.length}</dd>
-              <dd className="text-sm opacity-70">books tracked</dd>
-            </div>
-            <div>
-              <dd className="font-display text-4xl font-bold">{sources.length}</dd>
-              <dd className="text-sm opacity-70">sources cited</dd>
-            </div>
-          </dl>
+            <dl className="mt-8 flex flex-wrap gap-x-10 gap-y-4">
+              <div>
+                <dd className="font-display text-4xl font-bold">{recs.length}</dd>
+                <dd className="text-sm opacity-70">books tracked</dd>
+              </div>
+              <div>
+                <dd className="font-display text-4xl font-bold">{sources.length}</dd>
+                <dd className="text-sm opacity-70">sources cited</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
 
-          <div className="mt-12 flex flex-wrap items-end gap-8">
+        <div className="mx-auto max-w-6xl px-5 pb-16 pt-10">
+          <div className="flex flex-wrap items-end gap-8">
             {heroBooks.map((b) => (
               <Book3D key={b.slug} book={b} width={200} eager />
             ))}

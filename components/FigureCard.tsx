@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Figure } from "@/lib/types";
 import { Cover } from "./Cover";
-import { initials } from "@/lib/site";
+import { Portrait } from "./Portrait";
 
 export interface CardFigure extends Figure {
   bookCount: number;
@@ -19,12 +19,14 @@ export function FigureCard({ figure }: { figure: CardFigure }) {
         className="flex items-center gap-4 p-5"
         style={{ background: figure.color.bg, color: figure.color.fg }}
       >
-        <span
-          className="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border-2 font-display text-lg font-bold"
-          style={{ borderColor: figure.color.fg }}
-        >
-          {initials(figure.name)}
-        </span>
+        <Portrait
+          slug={figure.slug}
+          name={figure.name}
+          bg={figure.color.bg}
+          fg={figure.color.fg}
+          borderColor={figure.color.fg}
+          className="h-14 w-14 shrink-0 rounded-full border-2 text-lg"
+        />
         <div className="min-w-0">
           <p className="font-display text-xl font-bold leading-tight">{figure.name}</p>
           <p className="truncate text-sm opacity-70">{figure.role}</p>
